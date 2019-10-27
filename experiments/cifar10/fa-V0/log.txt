@@ -1,0 +1,2411 @@
+
+====================
+Running the code with the dataset cifar10:
+	learning algorithm: fa
+	batch_size: 128
+	learning rate: 0.2
+	n_epochs: 400
+	test frequency: 1
+	size_layers: [3072, 1000, 10]
+====================
+
+
+Epoch 0 completed in 50.81906056404114	Loss: 26.61020054043798
+Test accuracy: 10.27
+In layer 3 angle between matrices: 89.98575117692909
+In layer 2 angle between matrices: 98.06582446239791
+Angle between deltas: {'layer_1': 124.43495039636149}
+
+Epoch 1 completed in 50.4246780872345	Loss: 22.23329284056476
+Test accuracy: 18.94
+In layer 3 angle between matrices: 89.98555847815001
+In layer 2 angle between matrices: 98.03006813466668
+Angle between deltas: {'layer_1': 96.18047319763947}
+
+Epoch 2 completed in 65.81455588340759	Loss: 19.849644332415103
+Test accuracy: 16.15
+In layer 3 angle between matrices: 89.98518820719956
+In layer 2 angle between matrices: 93.15716917610357
+Angle between deltas: {'layer_1': 90.87596341247315}
+
+Epoch 3 completed in 66.14731788635254	Loss: 18.277371424603917
+Test accuracy: 18.05
+In layer 3 angle between matrices: 89.98264865846383
+In layer 2 angle between matrices: 91.3506562172268
+Angle between deltas: {'layer_1': 80.82983646632069}
+
+Epoch 4 completed in 60.211888551712036	Loss: 16.89758858289109
+Test accuracy: 20.05
+In layer 3 angle between matrices: 89.98069294854264
+In layer 2 angle between matrices: 90.40234478723349
+Angle between deltas: {'layer_1': 80.37699879026395}
+
+Epoch 5 completed in 57.56079721450806	Loss: 15.501885950139975
+Test accuracy: 17.27
+In layer 3 angle between matrices: 89.97778644440886
+In layer 2 angle between matrices: 88.6576041383854
+Angle between deltas: {'layer_1': 78.12539279235155}
+
+Epoch 6 completed in 56.16603994369507	Loss: 15.243117477026733
+Test accuracy: 19.72
+In layer 3 angle between matrices: 89.97518991566474
+In layer 2 angle between matrices: 86.08479503855912
+Angle between deltas: {'layer_1': 71.45056656028065}
+
+Epoch 7 completed in 54.00085425376892	Loss: 14.750528306703062
+Test accuracy: 20.39
+In layer 3 angle between matrices: 89.97272032045018
+In layer 2 angle between matrices: 85.60827038337239
+Angle between deltas: {'layer_1': 92.5173078466735}
+
+Epoch 8 completed in 55.23880457878113	Loss: 14.109760499796227
+Test accuracy: 22.86
+In layer 3 angle between matrices: 89.97073889390353
+In layer 2 angle between matrices: 84.35183071192742
+Angle between deltas: {'layer_1': 83.56252189235687}
+
+Epoch 9 completed in 55.39479207992554	Loss: 13.693649728794007
+Test accuracy: 23.42
+In layer 3 angle between matrices: 89.96928962380245
+In layer 2 angle between matrices: 83.88345414060909
+Angle between deltas: {'layer_1': 65.76769618241323}
+
+Epoch 10 completed in 53.03416419029236	Loss: 12.574842851998715
+Test accuracy: 16.45
+In layer 3 angle between matrices: 89.968007784122
+In layer 2 angle between matrices: 83.41214116186543
+Angle between deltas: {'layer_1': 88.98949190486935}
+
+Epoch 11 completed in 53.89841985702515	Loss: 12.986349901894243
+Test accuracy: 22.67
+In layer 3 angle between matrices: 89.96678361558777
+In layer 2 angle between matrices: 82.93369074194061
+Angle between deltas: {'layer_1': 52.10386040941792}
+
+Epoch 12 completed in 56.19425654411316	Loss: 12.49469455574181
+Test accuracy: 22.34
+In layer 3 angle between matrices: 89.96595888971166
+In layer 2 angle between matrices: 82.13481000949568
+Angle between deltas: {'layer_1': 69.9539990382905}
+
+Epoch 13 completed in 57.006932973861694	Loss: 12.188109254500642
+Test accuracy: 20.65
+In layer 3 angle between matrices: 89.9650724317192
+In layer 2 angle between matrices: 81.63252234238583
+Angle between deltas: {'layer_1': 69.58239447481186}
+
+Epoch 14 completed in 65.34729623794556	Loss: 11.781936445239703
+Test accuracy: 27.91
+In layer 3 angle between matrices: 89.96434224739532
+In layer 2 angle between matrices: 82.04800866846512
+Angle between deltas: {'layer_1': 70.87850660302956}
+
+Epoch 15 completed in 67.6840877532959	Loss: 12.03933895104996
+Test accuracy: 22.31
+In layer 3 angle between matrices: 89.96356732331049
+In layer 2 angle between matrices: 81.03251595019697
+Angle between deltas: {'layer_1': 69.50858783491057}
+
+Epoch 16 completed in 68.10569477081299	Loss: 11.763627141875972
+Test accuracy: 24.17
+In layer 3 angle between matrices: 89.96354942664473
+In layer 2 angle between matrices: 81.59370901080383
+Angle between deltas: {'layer_1': 86.91641998403476}
+
+Epoch 17 completed in 62.56077218055725	Loss: 11.636629113781042
+Test accuracy: 29.63
+In layer 3 angle between matrices: 89.96323303741262
+In layer 2 angle between matrices: 80.69966040360745
+Angle between deltas: {'layer_1': 78.24860450573274}
+
+Epoch 18 completed in 64.8692479133606	Loss: 11.376676962104558
+Test accuracy: 22.5
+In layer 3 angle between matrices: 89.96230201589844
+In layer 2 angle between matrices: 80.53970538556628
+Angle between deltas: {'layer_1': 70.56041019547803}
+
+Epoch 19 completed in 66.21350288391113	Loss: 11.353685408326914
+Test accuracy: 31.04
+In layer 3 angle between matrices: 89.96208022725996
+In layer 2 angle between matrices: 80.62428935639153
+Angle between deltas: {'layer_1': 84.48087861121935}
+
+Epoch 20 completed in 65.05825614929199	Loss: 10.766875370595193
+Test accuracy: 22.59
+In layer 3 angle between matrices: 89.96176727061322
+In layer 2 angle between matrices: 79.76215610686715
+Angle between deltas: {'layer_1': 69.31503589580245}
+
+Epoch 21 completed in 64.9139678478241	Loss: 11.10697976832965
+Test accuracy: 23.76
+In layer 3 angle between matrices: 89.96086354050297
+In layer 2 angle between matrices: 79.79464153515396
+Angle between deltas: {'layer_1': 74.79269885904303}
+
+Epoch 22 completed in 65.70667815208435	Loss: 11.076262170561467
+Test accuracy: 27.07
+In layer 3 angle between matrices: 89.96042719541241
+In layer 2 angle between matrices: 79.37654694648289
+Angle between deltas: {'layer_1': 88.138439847358}
+
+Epoch 23 completed in 66.40092039108276	Loss: 10.810930700019297
+Test accuracy: 34.2
+In layer 3 angle between matrices: 89.95983492899784
+In layer 2 angle between matrices: 79.47227997956458
+Angle between deltas: {'layer_1': 71.64998694757992}
+
+Epoch 24 completed in 65.8468885421753	Loss: 10.538837165576423
+Test accuracy: 28.49
+In layer 3 angle between matrices: 89.95966859457295
+In layer 2 angle between matrices: 79.21067776183855
+Angle between deltas: {'layer_1': 73.50192614268946}
+
+Epoch 25 completed in 65.59290909767151	Loss: 10.56550317255418
+Test accuracy: 27.02
+In layer 3 angle between matrices: 89.95973433912427
+In layer 2 angle between matrices: 78.91047165891479
+Angle between deltas: {'layer_1': 72.94633307784302}
+
+Epoch 26 completed in 65.50549077987671	Loss: 10.432699604575907
+Test accuracy: 27.95
+In layer 3 angle between matrices: 89.9595780542574
+In layer 2 angle between matrices: 78.5637927085979
+Angle between deltas: {'layer_1': 71.94447242692131}
+
+Epoch 27 completed in 66.73253011703491	Loss: 10.489064707085063
+Test accuracy: 25.32
+In layer 3 angle between matrices: 89.95922831586
+In layer 2 angle between matrices: 78.30361861675485
+Angle between deltas: {'layer_1': 54.93155438611363}
+
+Epoch 28 completed in 67.56374645233154	Loss: 10.185030373752502
+Test accuracy: 32.18
+In layer 3 angle between matrices: 89.95923665623454
+In layer 2 angle between matrices: 78.371265140548
+Angle between deltas: {'layer_1': 74.76686013599135}
+
+Epoch 29 completed in 67.35812020301819	Loss: 10.480745137717822
+Test accuracy: 35.25
+In layer 3 angle between matrices: 89.95931262450877
+In layer 2 angle between matrices: 77.9746103742185
+Angle between deltas: {'layer_1': 73.89365455902336}
+
+Epoch 30 completed in 67.36207032203674	Loss: 10.148853192695771
+Test accuracy: 32.35
+In layer 3 angle between matrices: 89.95934386792823
+In layer 2 angle between matrices: 77.9792256431199
+Angle between deltas: {'layer_1': 68.43600720136075}
+
+Epoch 31 completed in 64.26731538772583	Loss: 10.192728107361228
+Test accuracy: 28.58
+In layer 3 angle between matrices: 89.95961993074772
+In layer 2 angle between matrices: 77.88486935805214
+Angle between deltas: {'layer_1': 87.55895396828288}
+
+Epoch 32 completed in 65.12411522865295	Loss: 10.165829068437235
+Test accuracy: 23.7
+In layer 3 angle between matrices: 89.95987152373606
+In layer 2 angle between matrices: 77.37771285523287
+Angle between deltas: {'layer_1': 73.96074395669909}
+
+Epoch 33 completed in 65.38949966430664	Loss: 9.661801904240203
+Test accuracy: 28.5
+In layer 3 angle between matrices: 89.96012931065206
+In layer 2 angle between matrices: 77.61015278083511
+Angle between deltas: {'layer_1': 74.57532635456434}
+
+Epoch 34 completed in 63.779515981674194	Loss: 10.026500143264808
+Test accuracy: 29.72
+In layer 3 angle between matrices: 89.96000526420389
+In layer 2 angle between matrices: 77.37659302336284
+Angle between deltas: {'layer_1': 72.18791839093991}
+
+Epoch 35 completed in 68.61627864837646	Loss: 9.809141611178061
+Test accuracy: 24.84
+In layer 3 angle between matrices: 89.96007643925859
+In layer 2 angle between matrices: 77.13877652360382
+Angle between deltas: {'layer_1': 72.2135856276816}
+
+Epoch 36 completed in 64.52608513832092	Loss: 9.947696809300309
+Test accuracy: 24.7
+In layer 3 angle between matrices: 89.96021805726235
+In layer 2 angle between matrices: 76.93749571732594
+Angle between deltas: {'layer_1': 72.32386810810874}
+
+Epoch 37 completed in 65.67146158218384	Loss: 9.698240791089349
+Test accuracy: 26.52
+In layer 3 angle between matrices: 89.96042485274586
+In layer 2 angle between matrices: 76.9551122278547
+Angle between deltas: {'layer_1': 75.24699906471704}
+
+Epoch 38 completed in 67.27203369140625	Loss: 9.78556314473174
+Test accuracy: 27.45
+In layer 3 angle between matrices: 89.96039299252014
+In layer 2 angle between matrices: 76.3271730451969
+Angle between deltas: {'layer_1': 78.1927235090952}
+
+Epoch 39 completed in 63.594465017318726	Loss: 9.408577664767174
+Test accuracy: 30.61
+In layer 3 angle between matrices: 89.96111501010117
+In layer 2 angle between matrices: 76.08275791633532
+Angle between deltas: {'layer_1': 73.58590887189706}
+
+Epoch 40 completed in 65.51160502433777	Loss: 9.66940212972667
+Test accuracy: 26.15
+In layer 3 angle between matrices: 89.96122943410222
+In layer 2 angle between matrices: 76.35632948311029
+Angle between deltas: {'layer_1': 83.91981162435346}
+
+Epoch 41 completed in 67.8306736946106	Loss: 9.646457710627562
+Test accuracy: 34.57
+In layer 3 angle between matrices: 89.96137745621081
+In layer 2 angle between matrices: 76.16227222510848
+Angle between deltas: {'layer_1': 73.81651676977043}
+
+Epoch 42 completed in 66.77193808555603	Loss: 9.561162761695657
+Test accuracy: 32.42
+In layer 3 angle between matrices: 89.96207996249376
+In layer 2 angle between matrices: 75.86011399807388
+Angle between deltas: {'layer_1': 71.903129373049}
+
+Epoch 43 completed in 66.72803544998169	Loss: 9.1547688693562
+Test accuracy: 33.03
+In layer 3 angle between matrices: 89.96214397244256
+In layer 2 angle between matrices: 75.90196227810065
+Angle between deltas: {'layer_1': 68.40429828013814}
+
+Epoch 44 completed in 64.79194760322571	Loss: 9.177531352243903
+Test accuracy: 22.12
+In layer 3 angle between matrices: 89.9625414924667
+In layer 2 angle between matrices: 75.49449032199844
+Angle between deltas: {'layer_1': 74.11987428666203}
+
+Epoch 45 completed in 66.35132789611816	Loss: 9.53651794288512
+Test accuracy: 38.77
+In layer 3 angle between matrices: 89.96267240638134
+In layer 2 angle between matrices: 75.49189942230201
+Angle between deltas: {'layer_1': 66.61928586676548}
+
+Epoch 46 completed in 67.08108592033386	Loss: 9.51736076300505
+Test accuracy: 31.47
+In layer 3 angle between matrices: 89.96283695311213
+In layer 2 angle between matrices: 75.12057857900524
+Angle between deltas: {'layer_1': 74.44158353110267}
+
+Epoch 47 completed in 64.86031031608582	Loss: 9.343094003587439
+Test accuracy: 23.99
+In layer 3 angle between matrices: 89.9630154666395
+In layer 2 angle between matrices: 74.91133589906076
+Angle between deltas: {'layer_1': 73.11986090997112}
+
+Epoch 48 completed in 63.937925815582275	Loss: 9.02924281009467
+Test accuracy: 29.97
+In layer 3 angle between matrices: 89.96327142981633
+In layer 2 angle between matrices: 74.86921910429602
+Angle between deltas: {'layer_1': 67.1982234195932}
+
+Epoch 49 completed in 66.38113212585449	Loss: 9.175063004466764
+Test accuracy: 34.86
+In layer 3 angle between matrices: 89.96345887710694
+In layer 2 angle between matrices: 74.73897041839807
+Angle between deltas: {'layer_1': 72.94892230771723}
+
+Epoch 50 completed in 68.10252642631531	Loss: 9.145925486718784
+Test accuracy: 26.23
+In layer 3 angle between matrices: 89.96349203505119
+In layer 2 angle between matrices: 74.76080976392204
+Angle between deltas: {'layer_1': 68.96599022526173}
+
+Epoch 51 completed in 66.89478278160095	Loss: 9.01869130431328
+Test accuracy: 33.53
+In layer 3 angle between matrices: 89.96391330983155
+In layer 2 angle between matrices: 74.47980547166284
+Angle between deltas: {'layer_1': 73.50985718505777}
+
+Epoch 52 completed in 65.82076835632324	Loss: 9.132984660305931
+Test accuracy: 31.57
+In layer 3 angle between matrices: 89.96400938260754
+In layer 2 angle between matrices: 74.49080063244833
+Angle between deltas: {'layer_1': 70.62595478807535}
+
+Epoch 53 completed in 61.724034547805786	Loss: 9.069311393720463
+Test accuracy: 28.69
+In layer 3 angle between matrices: 89.96441972424368
+In layer 2 angle between matrices: 74.09283459357364
+Angle between deltas: {'layer_1': 72.76991408668655}
+
+Epoch 54 completed in 66.33829545974731	Loss: 8.968857622011209
+Test accuracy: 22.31
+In layer 3 angle between matrices: 89.96467517678089
+In layer 2 angle between matrices: 73.96753397177856
+Angle between deltas: {'layer_1': 84.21602300179167}
+
+Epoch 55 completed in 61.57636046409607	Loss: 8.775674258597137
+Test accuracy: 36.6
+In layer 3 angle between matrices: 89.96452241782399
+In layer 2 angle between matrices: 74.02823927994345
+Angle between deltas: {'layer_1': 65.56865608038731}
+
+Epoch 56 completed in 60.67477202415466	Loss: 8.805346069803022
+Test accuracy: 38.34
+In layer 3 angle between matrices: 89.96482858347684
+In layer 2 angle between matrices: 74.1065737252568
+Angle between deltas: {'layer_1': 78.07014922242597}
+
+Epoch 57 completed in 64.61227798461914	Loss: 8.622171312584522
+Test accuracy: 34.86
+In layer 3 angle between matrices: 89.96513805249992
+In layer 2 angle between matrices: 73.5600632570397
+Angle between deltas: {'layer_1': 77.13485321760592}
+
+Epoch 58 completed in 63.75744581222534	Loss: 8.766615753767198
+Test accuracy: 30.76
+In layer 3 angle between matrices: 89.96532688723686
+In layer 2 angle between matrices: 73.49130118753673
+Angle between deltas: {'layer_1': 72.88390347331269}
+
+Epoch 59 completed in 67.3371160030365	Loss: 8.68134068397321
+Test accuracy: 32.92
+In layer 3 angle between matrices: 89.96530542997677
+In layer 2 angle between matrices: 73.39163403575597
+Angle between deltas: {'layer_1': 64.48504954794659}
+
+Epoch 60 completed in 66.25589203834534	Loss: 8.65165424792331
+Test accuracy: 30.32
+In layer 3 angle between matrices: 89.96538390743237
+In layer 2 angle between matrices: 73.05632915504323
+Angle between deltas: {'layer_1': 72.2887195657824}
+
+Epoch 61 completed in 64.7236762046814	Loss: 8.649265549849172
+Test accuracy: 31.84
+In layer 3 angle between matrices: 89.96558233950906
+In layer 2 angle between matrices: 72.97043077517203
+Angle between deltas: {'layer_1': 67.84736120015721}
+
+Epoch 62 completed in 65.04264402389526	Loss: 8.584945279214203
+Test accuracy: 32.17
+In layer 3 angle between matrices: 89.96579423789291
+In layer 2 angle between matrices: 73.04154187026253
+Angle between deltas: {'layer_1': 73.62924727155527}
+
+Epoch 63 completed in 64.8967056274414	Loss: 8.74531457569797
+Test accuracy: 32.82
+In layer 3 angle between matrices: 89.9661778025878
+In layer 2 angle between matrices: 72.82508514491884
+Angle between deltas: {'layer_1': 67.36283531697157}
+
+Epoch 64 completed in 70.08671832084656	Loss: 8.52697691211357
+Test accuracy: 35.47
+In layer 3 angle between matrices: 89.96626713003009
+In layer 2 angle between matrices: 72.7774550480704
+Angle between deltas: {'layer_1': 75.08338171191554}
+
+Epoch 65 completed in 65.78926706314087	Loss: 8.483703259463407
+Test accuracy: 33.05
+In layer 3 angle between matrices: 89.96646470696417
+In layer 2 angle between matrices: 72.86383830920792
+Angle between deltas: {'layer_1': 84.09416055268588}
+
+Epoch 66 completed in 64.74067401885986	Loss: 8.276481376010402
+Test accuracy: 36.75
+In layer 3 angle between matrices: 89.96641368208897
+In layer 2 angle between matrices: 72.69043464760497
+Angle between deltas: {'layer_1': 63.611599602178}
+
+Epoch 67 completed in 67.74091386795044	Loss: 8.333912000442012
+Test accuracy: 34.8
+In layer 3 angle between matrices: 89.96659081303004
+In layer 2 angle between matrices: 72.36562615234213
+Angle between deltas: {'layer_1': 69.0508064132825}
+
+Epoch 68 completed in 65.64559626579285	Loss: 8.184380419524086
+Test accuracy: 34.7
+In layer 3 angle between matrices: 89.96653347079479
+In layer 2 angle between matrices: 72.05134290706035
+Angle between deltas: {'layer_1': 72.08331545874147}
+
+Epoch 69 completed in 65.45747375488281	Loss: 8.399155503215837
+Test accuracy: 31.29
+In layer 3 angle between matrices: 89.96684270867672
+In layer 2 angle between matrices: 72.06557400259108
+Angle between deltas: {'layer_1': 76.5577683666204}
+
+Epoch 70 completed in 64.52194690704346	Loss: 8.117019781378419
+Test accuracy: 39.35
+In layer 3 angle between matrices: 89.96684617607532
+In layer 2 angle between matrices: 72.03220980308107
+Angle between deltas: {'layer_1': 62.46424235999179}
+
+Epoch 71 completed in 65.8225839138031	Loss: 8.33527718431398
+Test accuracy: 35.91
+In layer 3 angle between matrices: 89.96687654617786
+In layer 2 angle between matrices: 71.84820818361406
+Angle between deltas: {'layer_1': 62.39168159453491}
+
+Epoch 72 completed in 64.12615728378296	Loss: 8.188237036607656
+Test accuracy: 25.48
+In layer 3 angle between matrices: 89.96680675724988
+In layer 2 angle between matrices: 71.62406242760142
+Angle between deltas: {'layer_1': 82.68571481681485}
+
+Epoch 73 completed in 67.25159454345703	Loss: 8.28551095218511
+Test accuracy: 28.87
+In layer 3 angle between matrices: 89.96709186672405
+In layer 2 angle between matrices: 71.48634876083894
+Angle between deltas: {'layer_1': 71.83545034781193}
+
+Epoch 74 completed in 65.68680500984192	Loss: 8.006469156359215
+Test accuracy: 32.34
+In layer 3 angle between matrices: 89.9667888110662
+In layer 2 angle between matrices: 71.40677567114575
+Angle between deltas: {'layer_1': 61.35702893039184}
+
+Epoch 75 completed in 66.95593476295471	Loss: 8.065476117609002
+Test accuracy: 33.21
+In layer 3 angle between matrices: 89.96670458265666
+In layer 2 angle between matrices: 71.20144371159934
+Angle between deltas: {'layer_1': 61.61320564222278}
+
+Epoch 76 completed in 63.17353391647339	Loss: 8.083169438598457
+Test accuracy: 30.34
+In layer 3 angle between matrices: 89.96706293793312
+In layer 2 angle between matrices: 71.21310820866339
+Angle between deltas: {'layer_1': 76.59108104808882}
+
+Epoch 77 completed in 64.67556667327881	Loss: 8.190582800633559
+Test accuracy: 31.44
+In layer 3 angle between matrices: 89.96703757980606
+In layer 2 angle between matrices: 70.88993835163478
+Angle between deltas: {'layer_1': 71.39646990331653}
+
+Epoch 78 completed in 65.08390021324158	Loss: 8.100748635870062
+Test accuracy: 24.29
+In layer 3 angle between matrices: 89.96713045346871
+In layer 2 angle between matrices: 70.75983232081556
+Angle between deltas: {'layer_1': 71.88480574748803}
+
+Epoch 79 completed in 63.814945459365845	Loss: 8.033301831477724
+Test accuracy: 31.88
+In layer 3 angle between matrices: 89.9670381414939
+In layer 2 angle between matrices: 70.65372097921009
+Angle between deltas: {'layer_1': 70.05966384851062}
+
+Epoch 80 completed in 66.20994186401367	Loss: 7.949906332919796
+Test accuracy: 37.62
+In layer 3 angle between matrices: 89.96757028922603
+In layer 2 angle between matrices: 70.63375228861732
+Angle between deltas: {'layer_1': 70.5218154071732}
+
+Epoch 81 completed in 65.07229614257812	Loss: 7.92761746498391
+Test accuracy: 24.4
+In layer 3 angle between matrices: 89.9675064280149
+In layer 2 angle between matrices: 70.39515558395206
+Angle between deltas: {'layer_1': 81.51255851949618}
+
+Epoch 82 completed in 66.44283175468445	Loss: 8.080554384025284
+Test accuracy: 28.0
+In layer 3 angle between matrices: 89.9672928550399
+In layer 2 angle between matrices: 70.2014974761928
+Angle between deltas: {'layer_1': 71.07849159882214}
+
+Epoch 83 completed in 65.33028721809387	Loss: 8.02840331280715
+Test accuracy: 29.25
+In layer 3 angle between matrices: 89.96707681247418
+In layer 2 angle between matrices: 70.04997008216256
+Angle between deltas: {'layer_1': 66.4541998894141}
+
+Epoch 84 completed in 65.50241899490356	Loss: 7.853177542912459
+Test accuracy: 32.21
+In layer 3 angle between matrices: 89.96722895320796
+In layer 2 angle between matrices: 70.07328355277407
+Angle between deltas: {'layer_1': 73.925052474706}
+
+Epoch 85 completed in 66.79107737541199	Loss: 8.100966035090218
+Test accuracy: 29.75
+In layer 3 angle between matrices: 89.96739463641445
+In layer 2 angle between matrices: 69.92590174278827
+Angle between deltas: {'layer_1': 80.68391380714108}
+
+Epoch 86 completed in 66.6298177242279	Loss: 7.718716852966644
+Test accuracy: 31.3
+In layer 3 angle between matrices: 89.96746003807668
+In layer 2 angle between matrices: 69.58734855020455
+Angle between deltas: {'layer_1': 63.32163263238398}
+
+Epoch 87 completed in 66.02095890045166	Loss: 7.74110136907768
+Test accuracy: 26.27
+In layer 3 angle between matrices: 89.96750124553895
+In layer 2 angle between matrices: 69.69247281487202
+Angle between deltas: {'layer_1': 80.46269112176071}
+
+Epoch 88 completed in 66.27465963363647	Loss: 8.007052093306967
+Test accuracy: 21.29
+In layer 3 angle between matrices: 89.96776506521131
+In layer 2 angle between matrices: 69.52537823450666
+Angle between deltas: {'layer_1': 77.34618864131943}
+
+Epoch 89 completed in 66.56684064865112	Loss: 7.944761609043785
+Test accuracy: 37.67
+In layer 3 angle between matrices: 89.96749009060393
+In layer 2 angle between matrices: 69.28058522798577
+Angle between deltas: {'layer_1': 59.13671613419384}
+
+Epoch 90 completed in 63.58178400993347	Loss: 7.550495675513543
+Test accuracy: 30.19
+In layer 3 angle between matrices: 89.96771609608719
+In layer 2 angle between matrices: 69.21945531128821
+Angle between deltas: {'layer_1': 70.11916412271916}
+
+Epoch 91 completed in 63.552173376083374	Loss: 7.739826545800103
+Test accuracy: 30.47
+In layer 3 angle between matrices: 89.96752320545919
+In layer 2 angle between matrices: 69.01731241965595
+Angle between deltas: {'layer_1': 68.49028491764437}
+
+Epoch 92 completed in 65.70899200439453	Loss: 7.700668599133312
+Test accuracy: 33.47
+In layer 3 angle between matrices: 89.96774262921485
+In layer 2 angle between matrices: 69.14223948432642
+Angle between deltas: {'layer_1': 77.35930188183431}
+
+Epoch 93 completed in 65.6994993686676	Loss: 7.704171078289747
+Test accuracy: 27.41
+In layer 3 angle between matrices: 89.96775144038044
+In layer 2 angle between matrices: 68.98203013478243
+Angle between deltas: {'layer_1': 80.37482861507135}
+
+Epoch 94 completed in 63.93693017959595	Loss: 7.567972854517353
+Test accuracy: 29.39
+In layer 3 angle between matrices: 89.96800402938086
+In layer 2 angle between matrices: 68.64406067691479
+Angle between deltas: {'layer_1': 70.35202064002372}
+
+Epoch 95 completed in 65.39198899269104	Loss: 7.476595561318167
+Test accuracy: 33.01
+In layer 3 angle between matrices: 89.96790029635154
+In layer 2 angle between matrices: 68.71775196515226
+Angle between deltas: {'layer_1': 69.40638985572785}
+
+Epoch 96 completed in 62.53995418548584	Loss: 7.60820747491123
+Test accuracy: 37.25
+In layer 3 angle between matrices: 89.96812291984668
+In layer 2 angle between matrices: 68.6065762355159
+Angle between deltas: {'layer_1': 69.28593357551127}
+
+Epoch 97 completed in 65.3448281288147	Loss: 7.489609987787707
+Test accuracy: 37.4
+In layer 3 angle between matrices: 89.96810036837017
+In layer 2 angle between matrices: 68.49987626702385
+Angle between deltas: {'layer_1': 69.5802050538691}
+
+Epoch 98 completed in 65.94655466079712	Loss: 7.560241614802585
+Test accuracy: 28.17
+In layer 3 angle between matrices: 89.9681997576571
+In layer 2 angle between matrices: 68.29142454493402
+Angle between deltas: {'layer_1': 69.91801652039186}
+
+Epoch 99 completed in 64.68614959716797	Loss: 7.320816433577931
+Test accuracy: 29.57
+In layer 3 angle between matrices: 89.96819525532177
+In layer 2 angle between matrices: 68.14357266020399
+Angle between deltas: {'layer_1': 69.27890055388218}
+
+Epoch 100 completed in 63.93448328971863	Loss: 7.404301253504861
+Test accuracy: 31.58
+In layer 3 angle between matrices: 89.96817489064559
+In layer 2 angle between matrices: 68.14949589446476
+Angle between deltas: {'layer_1': 79.89436122359388}
+
+Epoch 101 completed in 66.83818483352661	Loss: 7.374590523340556
+Test accuracy: 40.91
+In layer 3 angle between matrices: 89.96829459401573
+In layer 2 angle between matrices: 67.95546386354918
+Angle between deltas: {'layer_1': 67.98847304277899}
+
+Epoch 102 completed in 66.95564556121826	Loss: 7.534514015108631
+Test accuracy: 29.8
+In layer 3 angle between matrices: 89.96838044606724
+In layer 2 angle between matrices: 67.68072928670593
+Angle between deltas: {'layer_1': 69.12609260139618}
+
+Epoch 103 completed in 65.9985249042511	Loss: 7.430532527890277
+Test accuracy: 38.76
+In layer 3 angle between matrices: 89.9684898204164
+In layer 2 angle between matrices: 67.75098397695014
+Angle between deltas: {'layer_1': 69.25675505341376}
+
+Epoch 104 completed in 65.53372979164124	Loss: 7.3991260619740284
+Test accuracy: 43.4
+In layer 3 angle between matrices: 89.96836618163944
+In layer 2 angle between matrices: 67.66970516742371
+Angle between deltas: {'layer_1': 66.97816515486292}
+
+Epoch 105 completed in 64.46233773231506	Loss: 7.437196721894785
+Test accuracy: 28.56
+In layer 3 angle between matrices: 89.96798878070935
+In layer 2 angle between matrices: 67.49027594848077
+Angle between deltas: {'layer_1': 68.45502865090678}
+
+Epoch 106 completed in 65.0010347366333	Loss: 7.360265124023337
+Test accuracy: 38.12
+In layer 3 angle between matrices: 89.96847258768314
+In layer 2 angle between matrices: 67.28533109628823
+Angle between deltas: {'layer_1': 68.94982217270778}
+
+Epoch 107 completed in 64.53741097450256	Loss: 7.480911543982443
+Test accuracy: 36.49
+In layer 3 angle between matrices: 89.96874390403178
+In layer 2 angle between matrices: 67.20753724703481
+Angle between deltas: {'layer_1': 65.72610795468736}
+
+Epoch 108 completed in 65.48408126831055	Loss: 7.1048171644293125
+Test accuracy: 31.62
+In layer 3 angle between matrices: 89.96913478106173
+In layer 2 angle between matrices: 67.10393683816422
+Angle between deltas: {'layer_1': 79.55137624991941}
+
+Epoch 109 completed in 64.66311979293823	Loss: 7.127611547872642
+Test accuracy: 30.17
+In layer 3 angle between matrices: 89.96894924454267
+In layer 2 angle between matrices: 66.9422899779722
+Angle between deltas: {'layer_1': 67.54316664100791}
+
+Epoch 110 completed in 65.82636880874634	Loss: 7.167589435233906
+Test accuracy: 30.39
+In layer 3 angle between matrices: 89.96903462197236
+In layer 2 angle between matrices: 66.87953890270393
+Angle between deltas: {'layer_1': 64.60357565091596}
+
+Epoch 111 completed in 62.57556653022766	Loss: 7.160776653590493
+Test accuracy: 27.35
+In layer 3 angle between matrices: 89.96949606875312
+In layer 2 angle between matrices: 66.82373651369969
+Angle between deltas: {'layer_1': 78.68536032098412}
+
+Epoch 112 completed in 67.16185688972473	Loss: 7.3482277470705135
+Test accuracy: 34.69
+In layer 3 angle between matrices: 89.96953757904336
+In layer 2 angle between matrices: 66.56876099283672
+Angle between deltas: {'layer_1': 67.65514126683561}
+
+Epoch 113 completed in 67.40114212036133	Loss: 7.07486779029162
+Test accuracy: 38.9
+In layer 3 angle between matrices: 89.96928923405015
+In layer 2 angle between matrices: 66.52124673367923
+Angle between deltas: {'layer_1': 63.71147252377311}
+
+Epoch 114 completed in 66.72715425491333	Loss: 7.002696844390372
+Test accuracy: 32.51
+In layer 3 angle between matrices: 89.96949671345126
+In layer 2 angle between matrices: 66.53217419275136
+Angle between deltas: {'layer_1': 72.08652857896895}
+
+Epoch 115 completed in 66.36443519592285	Loss: 7.015879639528889
+Test accuracy: 26.84
+In layer 3 angle between matrices: 89.96913906734817
+In layer 2 angle between matrices: 66.25445583594467
+Angle between deltas: {'layer_1': 67.61770584546926}
+
+Epoch 116 completed in 64.73045086860657	Loss: 7.155796915985715
+Test accuracy: 28.28
+In layer 3 angle between matrices: 89.96930771243285
+In layer 2 angle between matrices: 66.08068869553213
+Angle between deltas: {'layer_1': 67.50174101942528}
+
+Epoch 117 completed in 64.44789457321167	Loss: 6.990511886768151
+Test accuracy: 33.36
+In layer 3 angle between matrices: 89.96942327241351
+In layer 2 angle between matrices: 66.1115500375037
+Angle between deltas: {'layer_1': 76.42331869604342}
+
+Epoch 118 completed in 64.78573274612427	Loss: 7.036593089881319
+Test accuracy: 37.2
+In layer 3 angle between matrices: 89.96952455403425
+In layer 2 angle between matrices: 66.0624357464588
+Angle between deltas: {'layer_1': 66.83156605423872}
+
+Epoch 119 completed in 64.82396245002747	Loss: 7.075979503800681
+Test accuracy: 27.65
+In layer 3 angle between matrices: 89.96952421945335
+In layer 2 angle between matrices: 65.81094067807874
+Angle between deltas: {'layer_1': 63.87115757790815}
+
+Epoch 120 completed in 62.935457706451416	Loss: 7.1109868242157575
+Test accuracy: 35.72
+In layer 3 angle between matrices: 89.96941525972893
+In layer 2 angle between matrices: 65.75498678058716
+Angle between deltas: {'layer_1': 67.43260475461392}
+
+Epoch 121 completed in 63.70371437072754	Loss: 6.89807312174929
+Test accuracy: 30.22
+In layer 3 angle between matrices: 89.96953044396761
+In layer 2 angle between matrices: 65.59050211993201
+Angle between deltas: {'layer_1': 66.60882751819074}
+
+Epoch 122 completed in 66.16529250144958	Loss: 6.692156677317834
+Test accuracy: 36.57
+In layer 3 angle between matrices: 89.96962435046423
+In layer 2 angle between matrices: 65.51099618924763
+Angle between deltas: {'layer_1': 65.14505107348047}
+
+Epoch 123 completed in 65.28260898590088	Loss: 6.979326982736288
+Test accuracy: 33.43
+In layer 3 angle between matrices: 89.9696618510806
+In layer 2 angle between matrices: 65.40859657561994
+Angle between deltas: {'layer_1': 66.02511228881136}
+
+Epoch 124 completed in 66.9461042881012	Loss: 6.957573320854158
+Test accuracy: 34.26
+In layer 3 angle between matrices: 89.97005627787924
+In layer 2 angle between matrices: 65.37702620261598
+Angle between deltas: {'layer_1': 76.09542201939624}
+
+Epoch 125 completed in 66.7580337524414	Loss: 6.885911617980971
+Test accuracy: 31.66
+In layer 3 angle between matrices: 89.97018100168856
+In layer 2 angle between matrices: 65.2983183999893
+Angle between deltas: {'layer_1': 77.94110006953218}
+
+Epoch 126 completed in 66.12584257125854	Loss: 6.831943466390966
+Test accuracy: 32.32
+In layer 3 angle between matrices: 89.9699681356779
+In layer 2 angle between matrices: 65.12231557183709
+Angle between deltas: {'layer_1': 77.63448094631808}
+
+Epoch 127 completed in 66.54843640327454	Loss: 6.764312181054883
+Test accuracy: 38.45
+In layer 3 angle between matrices: 89.97022647495297
+In layer 2 angle between matrices: 65.02726859190264
+Angle between deltas: {'layer_1': 76.07416500248038}
+
+Epoch 128 completed in 62.19460153579712	Loss: 6.731286876443754
+Test accuracy: 32.6
+In layer 3 angle between matrices: 89.97038757713932
+In layer 2 angle between matrices: 64.95324797366102
+Angle between deltas: {'layer_1': 67.22515489252125}
+
+Epoch 129 completed in 65.30853271484375	Loss: 6.765858696373813
+Test accuracy: 38.72
+In layer 3 angle between matrices: 89.97019467036131
+In layer 2 angle between matrices: 64.85342927794862
+Angle between deltas: {'layer_1': 57.03627215155413}
+
+Epoch 130 completed in 64.43848705291748	Loss: 6.91970194411878
+Test accuracy: 39.89
+In layer 3 angle between matrices: 89.97019098825736
+In layer 2 angle between matrices: 64.74817636106803
+Angle between deltas: {'layer_1': 62.19170773172421}
+
+Epoch 131 completed in 64.4157202243805	Loss: 6.887464705268415
+Test accuracy: 35.27
+In layer 3 angle between matrices: 89.97021589965927
+In layer 2 angle between matrices: 64.6024296556679
+Angle between deltas: {'layer_1': 66.1863999324772}
+
+Epoch 132 completed in 67.92229914665222	Loss: 6.689789441648155
+Test accuracy: 36.57
+In layer 3 angle between matrices: 89.97034473644061
+In layer 2 angle between matrices: 64.47153072379665
+Angle between deltas: {'layer_1': 70.4585981261073}
+
+Epoch 133 completed in 64.57789063453674	Loss: 6.585158358932135
+Test accuracy: 34.9
+In layer 3 angle between matrices: 89.97044969999654
+In layer 2 angle between matrices: 64.37169940160955
+Angle between deltas: {'layer_1': 65.7506626570809}
+
+Epoch 134 completed in 66.49058532714844	Loss: 6.4851322425821
+Test accuracy: 40.23
+In layer 3 angle between matrices: 89.97058908859806
+In layer 2 angle between matrices: 64.20383267596604
+Angle between deltas: {'layer_1': 66.09666119601233}
+
+Epoch 135 completed in 67.07222247123718	Loss: 6.738735278664594
+Test accuracy: 32.45
+In layer 3 angle between matrices: 89.97096282458546
+In layer 2 angle between matrices: 64.20710385535769
+Angle between deltas: {'layer_1': 77.09941390688999}
+
+Epoch 136 completed in 65.43637466430664	Loss: 6.663629000820232
+Test accuracy: 38.19
+In layer 3 angle between matrices: 89.97105204609068
+In layer 2 angle between matrices: 64.0516364435022
+Angle between deltas: {'layer_1': 61.584183286465496}
+
+Epoch 137 completed in 65.94139790534973	Loss: 6.570099314534737
+Test accuracy: 35.53
+In layer 3 angle between matrices: 89.9711199871843
+In layer 2 angle between matrices: 63.99361713307025
+Angle between deltas: {'layer_1': 70.33065853906378}
+
+Epoch 138 completed in 63.620702505111694	Loss: 6.611069294463991
+Test accuracy: 26.92
+In layer 3 angle between matrices: 89.97148477782913
+In layer 2 angle between matrices: 63.87956142306693
+Angle between deltas: {'layer_1': 73.07919526708989}
+
+Epoch 139 completed in 68.78553676605225	Loss: 6.569912896384023
+Test accuracy: 39.51
+In layer 3 angle between matrices: 89.97156760795603
+In layer 2 angle between matrices: 63.67170030882606
+Angle between deltas: {'layer_1': 54.695469115141755}
+
+Epoch 140 completed in 65.96200299263	Loss: 6.343807404252162
+Test accuracy: 31.06
+In layer 3 angle between matrices: 89.97141612307456
+In layer 2 angle between matrices: 63.608634263193345
+Angle between deltas: {'layer_1': 64.83703660647161}
+
+Epoch 141 completed in 66.01937341690063	Loss: 6.696259923026844
+Test accuracy: 31.56
+In layer 3 angle between matrices: 89.97143536782514
+In layer 2 angle between matrices: 63.53445498192856
+Angle between deltas: {'layer_1': 65.31506004627838}
+
+Epoch 142 completed in 65.95994281768799	Loss: 6.476694435372629
+Test accuracy: 34.92
+In layer 3 angle between matrices: 89.97135568273379
+In layer 2 angle between matrices: 63.44287456737226
+Angle between deltas: {'layer_1': 65.294749827738}
+
+Epoch 143 completed in 65.57627892494202	Loss: 6.655506585121434
+Test accuracy: 36.48
+In layer 3 angle between matrices: 89.97163388012527
+In layer 2 angle between matrices: 63.240613880700465
+Angle between deltas: {'layer_1': 65.08295875611698}
+
+Epoch 144 completed in 63.23658776283264	Loss: 6.422528494559494
+Test accuracy: 40.79
+In layer 3 angle between matrices: 89.97168926554123
+In layer 2 angle between matrices: 63.24457118599163
+Angle between deltas: {'layer_1': 66.02576219937455}
+
+Epoch 145 completed in 65.10050845146179	Loss: 6.534189535007441
+Test accuracy: 35.8
+In layer 3 angle between matrices: 89.9717551441592
+In layer 2 angle between matrices: 63.06896817924914
+Angle between deltas: {'layer_1': 64.5792373677453}
+
+Epoch 146 completed in 67.64073371887207	Loss: 6.479077741267833
+Test accuracy: 36.04
+In layer 3 angle between matrices: 89.97222714682044
+In layer 2 angle between matrices: 63.102340299543236
+Angle between deltas: {'layer_1': 74.8313488180357}
+
+Epoch 147 completed in 65.7798330783844	Loss: 6.488758523284836
+Test accuracy: 35.05
+In layer 3 angle between matrices: 89.9723048977029
+In layer 2 angle between matrices: 62.99222009344879
+Angle between deltas: {'layer_1': 74.90267626254358}
+
+Epoch 148 completed in 68.65337800979614	Loss: 6.284542785432833
+Test accuracy: 34.35
+In layer 3 angle between matrices: 89.9721078487007
+In layer 2 angle between matrices: 62.92747606162677
+Angle between deltas: {'layer_1': 65.02509451579155}
+
+Epoch 149 completed in 68.55504894256592	Loss: 6.384462084343814
+Test accuracy: 30.76
+In layer 3 angle between matrices: 89.97216390679786
+In layer 2 angle between matrices: 62.80870225954505
+Angle between deltas: {'layer_1': 75.06584744061452}
+
+Epoch 150 completed in 68.87060236930847	Loss: 6.258330808883101
+Test accuracy: 41.01
+In layer 3 angle between matrices: 89.9724854969025
+In layer 2 angle between matrices: 62.701265809885825
+Angle between deltas: {'layer_1': 58.19058237553572}
+
+Epoch 151 completed in 64.68951416015625	Loss: 6.367007681705146
+Test accuracy: 39.26
+In layer 3 angle between matrices: 89.9723927766
+In layer 2 angle between matrices: 62.57196657077639
+Angle between deltas: {'layer_1': 61.94398435165409}
+
+Epoch 152 completed in 62.21743941307068	Loss: 6.354490593371975
+Test accuracy: 39.22
+In layer 3 angle between matrices: 89.97259892753779
+In layer 2 angle between matrices: 62.4259077253696
+Angle between deltas: {'layer_1': 50.70120686833486}
+
+Epoch 153 completed in 63.13127112388611	Loss: 6.427526730375308
+Test accuracy: 32.17
+In layer 3 angle between matrices: 89.97272082036176
+In layer 2 angle between matrices: 62.35053689726503
+Angle between deltas: {'layer_1': 73.97004210032856}
+
+Epoch 154 completed in 65.91611552238464	Loss: 6.392926539927262
+Test accuracy: 37.58
+In layer 3 angle between matrices: 89.97290273595162
+In layer 2 angle between matrices: 62.18612779149845
+Angle between deltas: {'layer_1': 71.81962608480697}
+
+Epoch 155 completed in 64.52075219154358	Loss: 6.355354814243275
+Test accuracy: 34.86
+In layer 3 angle between matrices: 89.97306728465318
+In layer 2 angle between matrices: 62.01219272783229
+Angle between deltas: {'layer_1': 64.41939518369709}
+
+Epoch 156 completed in 65.96729588508606	Loss: 6.330845427104802
+Test accuracy: 38.72
+In layer 3 angle between matrices: 89.97330326854913
+In layer 2 angle between matrices: 61.927083513842405
+Angle between deltas: {'layer_1': 50.94056415875048}
+
+Epoch 157 completed in 66.41708111763	Loss: 6.181278858357065
+Test accuracy: 29.74
+In layer 3 angle between matrices: 89.97341286151298
+In layer 2 angle between matrices: 61.80577995593067
+Angle between deltas: {'layer_1': 59.66385254350332}
+
+Epoch 158 completed in 66.77393960952759	Loss: 6.326012898901785
+Test accuracy: 37.77
+In layer 3 angle between matrices: 89.97350174243007
+In layer 2 angle between matrices: 61.86970865356775
+Angle between deltas: {'layer_1': 61.84733569699771}
+
+Epoch 159 completed in 64.66358780860901	Loss: 6.408284687714143
+Test accuracy: 34.13
+In layer 3 angle between matrices: 89.97364620066048
+In layer 2 angle between matrices: 61.77055368834251
+Angle between deltas: {'layer_1': 71.98063703440491}
+
+Epoch 160 completed in 64.62015199661255	Loss: 6.055197800005611
+Test accuracy: 40.41
+In layer 3 angle between matrices: 89.97352451251267
+In layer 2 angle between matrices: 61.62217815817478
+Angle between deltas: {'layer_1': 62.12635438135414}
+
+Epoch 161 completed in 64.11808919906616	Loss: 6.147794540432493
+Test accuracy: 37.11
+In layer 3 angle between matrices: 89.9736390895387
+In layer 2 angle between matrices: 61.53388322918163
+Angle between deltas: {'layer_1': 62.48949253902371}
+
+Epoch 162 completed in 62.6891233921051	Loss: 6.11887014364433
+Test accuracy: 37.31
+In layer 3 angle between matrices: 89.97382023674035
+In layer 2 angle between matrices: 61.46988725329263
+Angle between deltas: {'layer_1': 61.66253275176647}
+
+Epoch 163 completed in 66.2159469127655	Loss: 5.980584848694854
+Test accuracy: 39.67
+In layer 3 angle between matrices: 89.97411447189117
+In layer 2 angle between matrices: 61.319125599485616
+Angle between deltas: {'layer_1': 62.62843471427223}
+
+Epoch 164 completed in 64.38404273986816	Loss: 6.1343070561953565
+Test accuracy: 32.36
+In layer 3 angle between matrices: 89.97424081031127
+In layer 2 angle between matrices: 61.161381379024185
+Angle between deltas: {'layer_1': 61.97252683395822}
+
+Epoch 165 completed in 63.42676854133606	Loss: 6.109391456873335
+Test accuracy: 37.03
+In layer 3 angle between matrices: 89.97417084084952
+In layer 2 angle between matrices: 61.170800793915134
+Angle between deltas: {'layer_1': 66.00430419038993}
+
+Epoch 166 completed in 62.6774377822876	Loss: 6.180678578686844
+Test accuracy: 33.49
+In layer 3 angle between matrices: 89.97448504229851
+In layer 2 angle between matrices: 60.94384314157342
+Angle between deltas: {'layer_1': 61.65939183594114}
+
+Epoch 167 completed in 61.6822714805603	Loss: 6.043612144850382
+Test accuracy: 37.27
+In layer 3 angle between matrices: 89.97461545850652
+In layer 2 angle between matrices: 60.915340267236715
+Angle between deltas: {'layer_1': 63.369667934333606}
+
+Epoch 168 completed in 63.93916440010071	Loss: 6.1941108392171955
+Test accuracy: 41.84
+In layer 3 angle between matrices: 89.97471330710678
+In layer 2 angle between matrices: 60.7404212156303
+Angle between deltas: {'layer_1': 50.15251885275394}
+
+Epoch 169 completed in 66.38052225112915	Loss: 6.056164227739711
+Test accuracy: 38.01
+In layer 3 angle between matrices: 89.97473133194659
+In layer 2 angle between matrices: 60.766832169510614
+Angle between deltas: {'layer_1': 73.26158502750144}
+
+Epoch 170 completed in 65.24721765518188	Loss: 6.09575756488278
+Test accuracy: 34.19
+In layer 3 angle between matrices: 89.97516607356324
+In layer 2 angle between matrices: 60.59483365948191
+Angle between deltas: {'layer_1': 73.79218616852478}
+
+Epoch 171 completed in 63.2003710269928	Loss: 6.02429267036555
+Test accuracy: 30.82
+In layer 3 angle between matrices: 89.97518508757388
+In layer 2 angle between matrices: 60.545761594408745
+Angle between deltas: {'layer_1': 73.90764970341998}
+
+Epoch 172 completed in 65.74264597892761	Loss: 5.976408171187125
+Test accuracy: 34.54
+In layer 3 angle between matrices: 89.97523812508106
+In layer 2 angle between matrices: 60.4926742132858
+Angle between deltas: {'layer_1': 68.1264496362775}
+
+Epoch 173 completed in 64.28469634056091	Loss: 6.069189583755718
+Test accuracy: 35.39
+In layer 3 angle between matrices: 89.97559842595302
+In layer 2 angle between matrices: 60.270535866804906
+Angle between deltas: {'layer_1': 63.17848480057482}
+
+Epoch 174 completed in 65.01549863815308	Loss: 6.0823037374199345
+Test accuracy: 39.88
+In layer 3 angle between matrices: 89.97563039374377
+In layer 2 angle between matrices: 60.19048136779155
+Angle between deltas: {'layer_1': 63.13875422725483}
+
+Epoch 175 completed in 63.53007483482361	Loss: 5.947589263111319
+Test accuracy: 37.26
+In layer 3 angle between matrices: 89.97602510991757
+In layer 2 angle between matrices: 60.15152367362069
+Angle between deltas: {'layer_1': 62.96887362750733}
+
+Epoch 176 completed in 68.08846068382263	Loss: 6.028921423350167
+Test accuracy: 31.92
+In layer 3 angle between matrices: 89.97602571981486
+In layer 2 angle between matrices: 60.0647693071213
+Angle between deltas: {'layer_1': 71.76865889475171}
+
+Epoch 177 completed in 63.68423247337341	Loss: 6.023218612107424
+Test accuracy: 34.32
+In layer 3 angle between matrices: 89.97619775709063
+In layer 2 angle between matrices: 59.94013009769817
+Angle between deltas: {'layer_1': 62.47708777762766}
+
+Epoch 178 completed in 66.92598938941956	Loss: 5.906159561869734
+Test accuracy: 37.21
+In layer 3 angle between matrices: 89.97643668311882
+In layer 2 angle between matrices: 59.89199669042482
+Angle between deltas: {'layer_1': 66.33625476245649}
+
+Epoch 179 completed in 66.25321817398071	Loss: 5.907878819466323
+Test accuracy: 39.72
+In layer 3 angle between matrices: 89.9765874938865
+In layer 2 angle between matrices: 59.77495743373395
+Angle between deltas: {'layer_1': 66.36490750878735}
+
+Epoch 180 completed in 65.69072580337524	Loss: 5.821984935196407
+Test accuracy: 35.91
+In layer 3 angle between matrices: 89.97665187706161
+In layer 2 angle between matrices: 59.70273818178665
+Angle between deltas: {'layer_1': 67.58302628618999}
+
+Epoch 181 completed in 65.53256916999817	Loss: 5.871782450482159
+Test accuracy: 39.66
+In layer 3 angle between matrices: 89.97679165407109
+In layer 2 angle between matrices: 59.6166419189191
+Angle between deltas: {'layer_1': 61.8502018893976}
+
+Epoch 182 completed in 62.36780285835266	Loss: 5.930996290402347
+Test accuracy: 38.32
+In layer 3 angle between matrices: 89.97703244002648
+In layer 2 angle between matrices: 59.48501397853294
+Angle between deltas: {'layer_1': 61.45153478355526}
+
+Epoch 183 completed in 66.36070156097412	Loss: 5.86783943295546
+Test accuracy: 36.51
+In layer 3 angle between matrices: 89.97704622864867
+In layer 2 angle between matrices: 59.391594202522406
+Angle between deltas: {'layer_1': 62.225205727800265}
+
+Epoch 184 completed in 64.74327826499939	Loss: 5.8821638374520475
+Test accuracy: 34.4
+In layer 3 angle between matrices: 89.97706177495844
+In layer 2 angle between matrices: 59.28823662001368
+Angle between deltas: {'layer_1': 68.6469470152469}
+
+Epoch 185 completed in 66.1397659778595	Loss: 5.846308925386704
+Test accuracy: 29.35
+In layer 3 angle between matrices: 89.97754123502524
+In layer 2 angle between matrices: 59.1941581912752
+Angle between deltas: {'layer_1': 70.62508677116864}
+
+Epoch 186 completed in 66.22834515571594	Loss: 5.664281505297419
+Test accuracy: 42.93
+In layer 3 angle between matrices: 89.97761796894818
+In layer 2 angle between matrices: 59.19619954454937
+Angle between deltas: {'layer_1': 57.101366590600385}
+
+Epoch 187 completed in 66.26890206336975	Loss: 5.792645441092324
+Test accuracy: 42.07
+In layer 3 angle between matrices: 89.9777456664643
+In layer 2 angle between matrices: 59.12561729047209
+Angle between deltas: {'layer_1': 50.00732224970787}
+
+Epoch 188 completed in 67.09116411209106	Loss: 5.829244575280182
+Test accuracy: 25.65
+In layer 3 angle between matrices: 89.97792467217154
+In layer 2 angle between matrices: 58.88161371811152
+Angle between deltas: {'layer_1': 71.0631804189531}
+
+Epoch 189 completed in 63.8011736869812	Loss: 5.767052542221832
+Test accuracy: 34.58
+In layer 3 angle between matrices: 89.97795729709306
+In layer 2 angle between matrices: 58.84706723145168
+Angle between deltas: {'layer_1': 69.36660553445049}
+
+Epoch 190 completed in 65.21069025993347	Loss: 5.668044591785149
+Test accuracy: 31.95
+In layer 3 angle between matrices: 89.97810164701075
+In layer 2 angle between matrices: 58.779298699769754
+Angle between deltas: {'layer_1': 61.44773244809649}
+
+Epoch 191 completed in 66.70867490768433	Loss: 5.683162821232511
+Test accuracy: 34.94
+In layer 3 angle between matrices: 89.97819783010986
+In layer 2 angle between matrices: 58.676471632882844
+Angle between deltas: {'layer_1': 61.98045355482078}
+
+Epoch 192 completed in 64.24888396263123	Loss: 5.884589948249684
+Test accuracy: 29.75
+In layer 3 angle between matrices: 89.97864690750217
+In layer 2 angle between matrices: 58.521861293221335
+Angle between deltas: {'layer_1': 70.74810219266037}
+
+Epoch 193 completed in 67.1830563545227	Loss: 5.785599852337545
+Test accuracy: 39.62
+In layer 3 angle between matrices: 89.97877993357064
+In layer 2 angle between matrices: 58.47149873124543
+Angle between deltas: {'layer_1': 54.126921188699455}
+
+Epoch 194 completed in 66.15807461738586	Loss: 5.747845824022482
+Test accuracy: 31.81
+In layer 3 angle between matrices: 89.9790635874634
+In layer 2 angle between matrices: 58.416239853599
+Angle between deltas: {'layer_1': 71.04404447634852}
+
+Epoch 195 completed in 68.13099813461304	Loss: 5.6841603987061
+Test accuracy: 39.3
+In layer 3 angle between matrices: 89.97908280226899
+In layer 2 angle between matrices: 58.35537729141047
+Angle between deltas: {'layer_1': 57.7382982572903}
+
+Epoch 196 completed in 65.91197180747986	Loss: 5.609606491660137
+Test accuracy: 31.73
+In layer 3 angle between matrices: 89.97924024223573
+In layer 2 angle between matrices: 58.261051981493075
+Angle between deltas: {'layer_1': 70.81835514054393}
+
+Epoch 197 completed in 66.81500172615051	Loss: 5.674770870513145
+Test accuracy: 40.0
+In layer 3 angle between matrices: 89.97940569023386
+In layer 2 angle between matrices: 58.17614976315881
+Angle between deltas: {'layer_1': 52.80243660266388}
+
+Epoch 198 completed in 65.97905373573303	Loss: 5.555727817495001
+Test accuracy: 39.74
+In layer 3 angle between matrices: 89.97958575267131
+In layer 2 angle between matrices: 58.04391909903684
+Angle between deltas: {'layer_1': 61.59145874265802}
+
+Epoch 199 completed in 67.08891081809998	Loss: 5.77362734536113
+Test accuracy: 36.68
+In layer 3 angle between matrices: 89.97968361286723
+In layer 2 angle between matrices: 58.03783889313683
+Angle between deltas: {'layer_1': 69.7102004889564}
+
+Epoch 200 completed in 66.1705915927887	Loss: 5.474866449680791
+Test accuracy: 35.0
+In layer 3 angle between matrices: 89.97975077378035
+In layer 2 angle between matrices: 57.898530054875394
+Angle between deltas: {'layer_1': 70.89223995811267}
+
+Epoch 201 completed in 66.75224924087524	Loss: 5.581453583675132
+Test accuracy: 42.82
+In layer 3 angle between matrices: 89.97994594353452
+In layer 2 angle between matrices: 57.823295508262454
+Angle between deltas: {'layer_1': 54.381828907366845}
+
+Epoch 202 completed in 64.51944756507874	Loss: 5.582860878745226
+Test accuracy: 38.5
+In layer 3 angle between matrices: 89.98013581175059
+In layer 2 angle between matrices: 57.719191950688156
+Angle between deltas: {'layer_1': 60.81417400839441}
+
+Epoch 203 completed in 65.29592275619507	Loss: 5.547390899443211
+Test accuracy: 34.61
+In layer 3 angle between matrices: 89.98025071189652
+In layer 2 angle between matrices: 57.64047471375224
+Angle between deltas: {'layer_1': 57.63743076419437}
+
+Epoch 204 completed in 67.44060015678406	Loss: 5.4621601953525545
+Test accuracy: 34.93
+In layer 3 angle between matrices: 89.98040254730336
+In layer 2 angle between matrices: 57.58133111213201
+Angle between deltas: {'layer_1': 61.278501257509916}
+
+Epoch 205 completed in 68.85827970504761	Loss: 5.621621073788421
+Test accuracy: 38.04
+In layer 3 angle between matrices: 89.98067352288794
+In layer 2 angle between matrices: 57.48121584899793
+Angle between deltas: {'layer_1': 69.89379523382622}
+
+Epoch 206 completed in 66.9003267288208	Loss: 5.584836919892543
+Test accuracy: 35.24
+In layer 3 angle between matrices: 89.9807079885692
+In layer 2 angle between matrices: 57.32489054894526
+Angle between deltas: {'layer_1': 58.501612221850635}
+
+Epoch 207 completed in 62.4508318901062	Loss: 5.4662435197916475
+Test accuracy: 38.72
+In layer 3 angle between matrices: 89.9809583425208
+In layer 2 angle between matrices: 57.35437245643828
+Angle between deltas: {'layer_1': 65.8536672487417}
+
+Epoch 208 completed in 64.59110021591187	Loss: 5.489991965103667
+Test accuracy: 31.7
+In layer 3 angle between matrices: 89.9810406886585
+In layer 2 angle between matrices: 57.221624645408816
+Angle between deltas: {'layer_1': 69.98990612427204}
+
+Epoch 209 completed in 67.22070837020874	Loss: 5.550450459302503
+Test accuracy: 31.1
+In layer 3 angle between matrices: 89.98139281777694
+In layer 2 angle between matrices: 57.10681260979118
+Angle between deltas: {'layer_1': 69.91664243502748}
+
+Epoch 210 completed in 66.86934399604797	Loss: 5.438363997759063
+Test accuracy: 37.81
+In layer 3 angle between matrices: 89.98154369774365
+In layer 2 angle between matrices: 56.98323154084429
+Angle between deltas: {'layer_1': 60.014624784942086}
+
+Epoch 211 completed in 64.70835852622986	Loss: 5.397210478413808
+Test accuracy: 37.15
+In layer 3 angle between matrices: 89.98168331939237
+In layer 2 angle between matrices: 56.911977269193514
+Angle between deltas: {'layer_1': 52.28754682800246}
+
+Epoch 212 completed in 66.24068474769592	Loss: 5.438127457059823
+Test accuracy: 35.56
+In layer 3 angle between matrices: 89.9819260081318
+In layer 2 angle between matrices: 56.9153898515992
+Angle between deltas: {'layer_1': 67.62041579453448}
+
+Epoch 213 completed in 63.76818490028381	Loss: 5.354711423132888
+Test accuracy: 43.2
+In layer 3 angle between matrices: 89.98201234783477
+In layer 2 angle between matrices: 56.819647239373104
+Angle between deltas: {'layer_1': 55.10833780850777}
+
+Epoch 214 completed in 64.77763557434082	Loss: 5.297270667774473
+Test accuracy: 37.91
+In layer 3 angle between matrices: 89.98210818774245
+In layer 2 angle between matrices: 56.699698541831815
+Angle between deltas: {'layer_1': 57.15141340580669}
+
+Epoch 215 completed in 65.99824476242065	Loss: 5.391253387600153
+Test accuracy: 45.21
+In layer 3 angle between matrices: 89.98239058814987
+In layer 2 angle between matrices: 56.64610051000469
+Angle between deltas: {'layer_1': 47.16399749276917}
+
+Epoch 216 completed in 64.67552256584167	Loss: 5.374621824181204
+Test accuracy: 45.53
+In layer 3 angle between matrices: 89.98258026550138
+In layer 2 angle between matrices: 56.52547686933108
+Angle between deltas: {'layer_1': 47.76713471778165}
+
+Epoch 217 completed in 65.36645150184631	Loss: 5.260630029901807
+Test accuracy: 35.76
+In layer 3 angle between matrices: 89.98261024899672
+In layer 2 angle between matrices: 56.5244631126323
+Angle between deltas: {'layer_1': 69.75940608604171}
+
+Epoch 218 completed in 67.10623478889465	Loss: 5.376257541598261
+Test accuracy: 35.42
+In layer 3 angle between matrices: 89.9828383494086
+In layer 2 angle between matrices: 56.38869037845925
+Angle between deltas: {'layer_1': 59.30068318584059}
+
+Epoch 219 completed in 66.18448543548584	Loss: 5.234339821640194
+Test accuracy: 41.33
+In layer 3 angle between matrices: 89.98294135151909
+In layer 2 angle between matrices: 56.28676238225233
+Angle between deltas: {'layer_1': 56.07262274235348}
+
+Epoch 220 completed in 67.35884428024292	Loss: 5.2355856798164995
+Test accuracy: 32.81
+In layer 3 angle between matrices: 89.98310964521569
+In layer 2 angle between matrices: 56.123652177683994
+Angle between deltas: {'layer_1': 58.8484590215113}
+
+Epoch 221 completed in 66.19386792182922	Loss: 5.2567255282554095
+Test accuracy: 42.09
+In layer 3 angle between matrices: 89.98307600108366
+In layer 2 angle between matrices: 56.10104975354847
+Angle between deltas: {'layer_1': 45.993082441060224}
+
+Epoch 222 completed in 65.57415533065796	Loss: 5.122573277698876
+Test accuracy: 40.95
+In layer 3 angle between matrices: 89.98317029154705
+In layer 2 angle between matrices: 56.03417734297705
+Angle between deltas: {'layer_1': 57.81001672871887}
+
+Epoch 223 completed in 64.86119270324707	Loss: 5.4185971793729495
+Test accuracy: 39.52
+In layer 3 angle between matrices: 89.98328748963033
+In layer 2 angle between matrices: 55.90108260369517
+Angle between deltas: {'layer_1': 58.08407852046091}
+
+Epoch 224 completed in 66.0037887096405	Loss: 5.251319945368251
+Test accuracy: 38.51
+In layer 3 angle between matrices: 89.98342035727559
+In layer 2 angle between matrices: 55.885951508045096
+Angle between deltas: {'layer_1': 57.95287533171309}
+
+Epoch 225 completed in 64.01816058158875	Loss: 5.131989219702888
+Test accuracy: 39.45
+In layer 3 angle between matrices: 89.983471913248
+In layer 2 angle between matrices: 55.874696979866215
+Angle between deltas: {'layer_1': 68.10518631007115}
+
+Epoch 226 completed in 65.45329546928406	Loss: 5.251175728109875
+Test accuracy: 39.7
+In layer 3 angle between matrices: 89.98375021890429
+In layer 2 angle between matrices: 55.79598224727963
+Angle between deltas: {'layer_1': 57.29414660839364}
+
+Epoch 227 completed in 68.39351773262024	Loss: 5.260330299121166
+Test accuracy: 38.52
+In layer 3 angle between matrices: 89.98385593899074
+In layer 2 angle between matrices: 55.65801008600627
+Angle between deltas: {'layer_1': 69.78589283236983}
+
+Epoch 228 completed in 62.634729862213135	Loss: 5.09380524643893
+Test accuracy: 44.31
+In layer 3 angle between matrices: 89.98396444705602
+In layer 2 angle between matrices: 55.615057934589665
+Angle between deltas: {'layer_1': 53.9102230136022}
+
+Epoch 229 completed in 66.64595341682434	Loss: 5.185219147940415
+Test accuracy: 40.29
+In layer 3 angle between matrices: 89.98396856197843
+In layer 2 angle between matrices: 55.49218826948572
+Angle between deltas: {'layer_1': 53.14040456323597}
+
+Epoch 230 completed in 65.44561457633972	Loss: 5.172273499651144
+Test accuracy: 35.46
+In layer 3 angle between matrices: 89.98410032802693
+In layer 2 angle between matrices: 55.44909118538569
+Angle between deltas: {'layer_1': 68.71646933506425}
+
+Epoch 231 completed in 64.34134197235107	Loss: 5.064319595469901
+Test accuracy: 41.77
+In layer 3 angle between matrices: 89.98422551196444
+In layer 2 angle between matrices: 55.38117069960548
+Angle between deltas: {'layer_1': 54.40611943689165}
+
+Epoch 232 completed in 65.87669968605042	Loss: 5.178165662356508
+Test accuracy: 37.89
+In layer 3 angle between matrices: 89.98458605707962
+In layer 2 angle between matrices: 55.28111520955848
+Angle between deltas: {'layer_1': 53.80018764804415}
+
+Epoch 233 completed in 67.98748922348022	Loss: 5.01464861792492
+Test accuracy: 39.65
+In layer 3 angle between matrices: 89.98465637989521
+In layer 2 angle between matrices: 55.20785515213674
+Angle between deltas: {'layer_1': 62.78930576392673}
+
+Epoch 234 completed in 66.62730765342712	Loss: 4.960705208408388
+Test accuracy: 38.34
+In layer 3 angle between matrices: 89.98466389793325
+In layer 2 angle between matrices: 55.161252176415154
+Angle between deltas: {'layer_1': 56.90563049601526}
+
+Epoch 235 completed in 62.79818630218506	Loss: 5.113051758051863
+Test accuracy: 42.34
+In layer 3 angle between matrices: 89.98486501413409
+In layer 2 angle between matrices: 55.056968515826696
+Angle between deltas: {'layer_1': 49.518674064391}
+
+Epoch 236 completed in 66.24374842643738	Loss: 5.106778727331417
+Test accuracy: 42.35
+In layer 3 angle between matrices: 89.98499435710144
+In layer 2 angle between matrices: 54.960870690900336
+Angle between deltas: {'layer_1': 54.09826895375888}
+
+Epoch 237 completed in 64.35930132865906	Loss: 4.996261914607884
+Test accuracy: 34.92
+In layer 3 angle between matrices: 89.98500130803035
+In layer 2 angle between matrices: 54.920584596147954
+Angle between deltas: {'layer_1': 69.55747982708772}
+
+Epoch 238 completed in 65.99339890480042	Loss: 5.153882382725816
+Test accuracy: 35.91
+In layer 3 angle between matrices: 89.9852505019676
+In layer 2 angle between matrices: 54.81840334621892
+Angle between deltas: {'layer_1': 67.87632913691843}
+
+Epoch 239 completed in 69.3177399635315	Loss: 4.905910498282233
+Test accuracy: 36.2
+In layer 3 angle between matrices: 89.98548497212354
+In layer 2 angle between matrices: 54.76318065376244
+Angle between deltas: {'layer_1': 67.5479017494643}
+
+Epoch 240 completed in 63.80847716331482	Loss: 4.967197241256425
+Test accuracy: 42.25
+In layer 3 angle between matrices: 89.9856871452419
+In layer 2 angle between matrices: 54.70436164143101
+Angle between deltas: {'layer_1': 55.86373440897547}
+
+Epoch 241 completed in 66.40903091430664	Loss: 5.063359589176203
+Test accuracy: 40.99
+In layer 3 angle between matrices: 89.98586532129863
+In layer 2 angle between matrices: 54.61343559005146
+Angle between deltas: {'layer_1': 43.612241251506155}
+
+Epoch 242 completed in 64.9837486743927	Loss: 4.9594751508330805
+Test accuracy: 39.54
+In layer 3 angle between matrices: 89.98593636762038
+In layer 2 angle between matrices: 54.563294016469584
+Angle between deltas: {'layer_1': 68.65873958828367}
+
+Epoch 243 completed in 64.41078209877014	Loss: 4.883967647100323
+Test accuracy: 42.78
+In layer 3 angle between matrices: 89.98589238029912
+In layer 2 angle between matrices: 54.4623760924944
+Angle between deltas: {'layer_1': 55.610282964225505}
+
+Epoch 244 completed in 66.88124990463257	Loss: 4.8401986008919335
+Test accuracy: 38.11
+In layer 3 angle between matrices: 89.98606394127205
+In layer 2 angle between matrices: 54.35163461345418
+Angle between deltas: {'layer_1': 51.37872043404366}
+
+Epoch 245 completed in 64.88033652305603	Loss: 4.932959098010776
+Test accuracy: 40.64
+In layer 3 angle between matrices: 89.98637759300193
+In layer 2 angle between matrices: 54.29133054705173
+Angle between deltas: {'layer_1': 52.17861439513973}
+
+Epoch 246 completed in 67.29414963722229	Loss: 4.957402116728798
+Test accuracy: 42.68
+In layer 3 angle between matrices: 89.98636280033385
+In layer 2 angle between matrices: 54.30139513411192
+Angle between deltas: {'layer_1': 64.07298240219872}
+
+Epoch 247 completed in 65.19993233680725	Loss: 4.915102808421426
+Test accuracy: 42.84
+In layer 3 angle between matrices: 89.98652030248736
+In layer 2 angle between matrices: 54.14543692157779
+Angle between deltas: {'layer_1': 54.92338729507542}
+
+Epoch 248 completed in 65.94448566436768	Loss: 4.928283356295789
+Test accuracy: 41.57
+In layer 3 angle between matrices: 89.98665928667714
+In layer 2 angle between matrices: 54.04578747212117
+Angle between deltas: {'layer_1': 52.14312163112601}
+
+Epoch 249 completed in 65.0498161315918	Loss: 4.767213187381679
+Test accuracy: 40.3
+In layer 3 angle between matrices: 89.9866413613534
+In layer 2 angle between matrices: 54.09404180052235
+Angle between deltas: {'layer_1': 66.52042799313452}
+
+Epoch 250 completed in 64.69290113449097	Loss: 4.957445915550956
+Test accuracy: 43.33
+In layer 3 angle between matrices: 89.98674555951493
+In layer 2 angle between matrices: 53.935829789117335
+Angle between deltas: {'layer_1': 54.26348484158746}
+
+Epoch 251 completed in 67.54289126396179	Loss: 4.86859305483129
+Test accuracy: 49.54
+In layer 3 angle between matrices: 89.98688201125721
+In layer 2 angle between matrices: 53.942858861603185
+Angle between deltas: {'layer_1': 53.481385889885324}
+
+Epoch 252 completed in 65.94813656806946	Loss: 4.821289425943813
+Test accuracy: 38.63
+In layer 3 angle between matrices: 89.98704417682961
+In layer 2 angle between matrices: 53.849709987123646
+Angle between deltas: {'layer_1': 66.91438745663162}
+
+Epoch 253 completed in 65.40926241874695	Loss: 4.893576051754669
+Test accuracy: 33.74
+In layer 3 angle between matrices: 89.98715757645462
+In layer 2 angle between matrices: 53.74792961075728
+Angle between deltas: {'layer_1': 66.17480633742885}
+
+Epoch 254 completed in 66.8761842250824	Loss: 4.6434601355742116
+Test accuracy: 43.96
+In layer 3 angle between matrices: 89.98723830863307
+In layer 2 angle between matrices: 53.75531674403355
+Angle between deltas: {'layer_1': 52.620490010705765}
+
+Epoch 255 completed in 66.11392045021057	Loss: 4.884245934553678
+Test accuracy: 43.81
+In layer 3 angle between matrices: 89.98737539405866
+In layer 2 angle between matrices: 53.59046306901195
+Angle between deltas: {'layer_1': 54.09437268764005}
+
+Epoch 256 completed in 63.990365982055664	Loss: 4.7490991798001
+Test accuracy: 39.85
+In layer 3 angle between matrices: 89.98751544281112
+In layer 2 angle between matrices: 53.580282060973474
+Angle between deltas: {'layer_1': 67.39448600016931}
+
+Epoch 257 completed in 63.83813118934631	Loss: 4.653449089123376
+Test accuracy: 38.74
+In layer 3 angle between matrices: 89.98759114574098
+In layer 2 angle between matrices: 53.43527957072386
+Angle between deltas: {'layer_1': 42.7119094489793}
+
+Epoch 258 completed in 67.36103343963623	Loss: 4.631778365076655
+Test accuracy: 42.67
+In layer 3 angle between matrices: 89.9876546310573
+In layer 2 angle between matrices: 53.45273642064292
+Angle between deltas: {'layer_1': 53.58538294671437}
+
+Epoch 259 completed in 66.62792587280273	Loss: 4.726739641955768
+Test accuracy: 40.47
+In layer 3 angle between matrices: 89.9878000887202
+In layer 2 angle between matrices: 53.34439993204303
+Angle between deltas: {'layer_1': 48.95320225033611}
+
+Epoch 260 completed in 68.48102021217346	Loss: 4.969557964855089
+Test accuracy: 37.29
+In layer 3 angle between matrices: 89.9878595766178
+In layer 2 angle between matrices: 53.30304242697035
+Angle between deltas: {'layer_1': 66.05423349683477}
+
+Epoch 261 completed in 65.96906518936157	Loss: 4.630896289601345
+Test accuracy: 43.68
+In layer 3 angle between matrices: 89.9880404139155
+In layer 2 angle between matrices: 53.22866819359064
+Angle between deltas: {'layer_1': 42.54394979169023}
+
+Epoch 262 completed in 64.82181191444397	Loss: 4.645658948134329
+Test accuracy: 40.26
+In layer 3 angle between matrices: 89.98817451246909
+In layer 2 angle between matrices: 53.211178556293476
+Angle between deltas: {'layer_1': 66.20072974590676}
+
+Epoch 263 completed in 65.10439443588257	Loss: 4.7688437867800575
+Test accuracy: 42.48
+In layer 3 angle between matrices: 89.98832444344079
+In layer 2 angle between matrices: 53.15157501406623
+Angle between deltas: {'layer_1': 65.72736077398085}
+
+Epoch 264 completed in 65.2403609752655	Loss: 4.717973776505317
+Test accuracy: 44.98
+In layer 3 angle between matrices: 89.98848722077054
+In layer 2 angle between matrices: 53.02419859435059
+Angle between deltas: {'layer_1': 42.69014299363025}
+
+Epoch 265 completed in 66.02075457572937	Loss: 4.682706438321726
+Test accuracy: 44.37
+In layer 3 angle between matrices: 89.98854513575927
+In layer 2 angle between matrices: 52.98456445763761
+Angle between deltas: {'layer_1': 44.19710899302359}
+
+Epoch 266 completed in 63.423720836639404	Loss: 4.524834187230304
+Test accuracy: 42.0
+In layer 3 angle between matrices: 89.98867857837521
+In layer 2 angle between matrices: 52.92429421965458
+Angle between deltas: {'layer_1': 66.74896025247513}
+
+Epoch 267 completed in 65.08207559585571	Loss: 4.675612102561005
+Test accuracy: 40.64
+In layer 3 angle between matrices: 89.9889929779634
+In layer 2 angle between matrices: 52.85514067404172
+Angle between deltas: {'layer_1': 52.223600925633285}
+
+Epoch 268 completed in 66.61393308639526	Loss: 4.588564528257174
+Test accuracy: 44.48
+In layer 3 angle between matrices: 89.98911399416485
+In layer 2 angle between matrices: 52.85136443851303
+Angle between deltas: {'layer_1': 48.03179234588436}
+
+Epoch 269 completed in 65.38246726989746	Loss: 4.677762277074994
+Test accuracy: 41.21
+In layer 3 angle between matrices: 89.98915745703539
+In layer 2 angle between matrices: 52.717988111767035
+Angle between deltas: {'layer_1': 49.1792414496458}
+
+Epoch 270 completed in 64.60037064552307	Loss: 4.55503366438073
+Test accuracy: 43.72
+In layer 3 angle between matrices: 89.98912325731095
+In layer 2 angle between matrices: 52.67294279464517
+Angle between deltas: {'layer_1': 44.90124050280866}
+
+Epoch 271 completed in 66.13586783409119	Loss: 4.641130271396342
+Test accuracy: 36.55
+In layer 3 angle between matrices: 89.98923925097947
+In layer 2 angle between matrices: 52.52623747478687
+Angle between deltas: {'layer_1': 63.30090143464929}
+
+Epoch 272 completed in 65.09795141220093	Loss: 4.532211251031339
+Test accuracy: 42.44
+In layer 3 angle between matrices: 89.98919246173128
+In layer 2 angle between matrices: 52.493083737539756
+Angle between deltas: {'layer_1': 52.484158233529}
+
+Epoch 273 completed in 66.61131000518799	Loss: 4.690755788662142
+Test accuracy: 45.55
+In layer 3 angle between matrices: 89.9892095037441
+In layer 2 angle between matrices: 52.410063785402606
+Angle between deltas: {'layer_1': 47.56053941023021}
+
+Epoch 274 completed in 67.44999742507935	Loss: 4.651246588195364
+Test accuracy: 42.22
+In layer 3 angle between matrices: 89.98952622040619
+In layer 2 angle between matrices: 52.39825285084496
+Angle between deltas: {'layer_1': 63.43171640760416}
+
+Epoch 275 completed in 61.80192995071411	Loss: 4.556237983710001
+Test accuracy: 38.23
+In layer 3 angle between matrices: 89.98964775426806
+In layer 2 angle between matrices: 52.379017240940186
+Angle between deltas: {'layer_1': 65.53336017165763}
+
+Epoch 276 completed in 64.99287462234497	Loss: 4.564366136570104
+Test accuracy: 44.28
+In layer 3 angle between matrices: 89.98960509334582
+In layer 2 angle between matrices: 52.261841618713646
+Angle between deltas: {'layer_1': 49.920910556684696}
+
+Epoch 277 completed in 69.49579858779907	Loss: 4.6258042920188265
+Test accuracy: 40.16
+In layer 3 angle between matrices: 89.98968967841978
+In layer 2 angle between matrices: 52.236621097425804
+Angle between deltas: {'layer_1': 65.5046249456547}
+
+Epoch 278 completed in 67.2468945980072	Loss: 4.440008819234138
+Test accuracy: 36.91
+In layer 3 angle between matrices: 89.98972145284993
+In layer 2 angle between matrices: 52.117341456637966
+Angle between deltas: {'layer_1': 63.56952842969177}
+
+Epoch 279 completed in 63.81917095184326	Loss: 4.461959998657511
+Test accuracy: 44.97
+In layer 3 angle between matrices: 89.98974349456957
+In layer 2 angle between matrices: 52.09102326563185
+Angle between deltas: {'layer_1': 48.66975981509856}
+
+Epoch 280 completed in 65.29203367233276	Loss: 4.476568110824894
+Test accuracy: 41.84
+In layer 3 angle between matrices: 89.99006466841624
+In layer 2 angle between matrices: 52.01212398382134
+Angle between deltas: {'layer_1': 48.68985648603057}
+
+Epoch 281 completed in 66.86177062988281	Loss: 4.421894668135498
+Test accuracy: 39.58
+In layer 3 angle between matrices: 89.99025112679597
+In layer 2 angle between matrices: 51.968722004010935
+Angle between deltas: {'layer_1': 48.605088896573555}
+
+Epoch 282 completed in 65.9208312034607	Loss: 4.57147338680823
+Test accuracy: 39.72
+In layer 3 angle between matrices: 89.99033461141
+In layer 2 angle between matrices: 51.91784063679475
+Angle between deltas: {'layer_1': 47.277966647820804}
+
+Epoch 283 completed in 68.68361711502075	Loss: 4.484021514605167
+Test accuracy: 36.04
+In layer 3 angle between matrices: 89.99037327199106
+In layer 2 angle between matrices: 51.84643796611665
+Angle between deltas: {'layer_1': 56.254554351730974}
+
+Epoch 284 completed in 65.14982318878174	Loss: 4.53395896615861
+Test accuracy: 40.88
+In layer 3 angle between matrices: 89.99043669702141
+In layer 2 angle between matrices: 51.8030368493474
+Angle between deltas: {'layer_1': 65.09754020445097}
+
+Epoch 285 completed in 65.30206298828125	Loss: 4.3663523561205615
+Test accuracy: 40.58
+In layer 3 angle between matrices: 89.99051679619153
+In layer 2 angle between matrices: 51.7098650362822
+Angle between deltas: {'layer_1': 64.62034112556724}
+
+Epoch 286 completed in 66.47887349128723	Loss: 4.405115388075376
+Test accuracy: 43.87
+In layer 3 angle between matrices: 89.99063516361736
+In layer 2 angle between matrices: 51.63107056705476
+Angle between deltas: {'layer_1': 48.631587560246835}
+
+Epoch 287 completed in 67.1072461605072	Loss: 4.43106105579111
+Test accuracy: 37.35
+In layer 3 angle between matrices: 89.99073203616261
+In layer 2 angle between matrices: 51.63359764167583
+Angle between deltas: {'layer_1': 64.57286488463187}
+
+Epoch 288 completed in 66.87150740623474	Loss: 4.456406693159498
+Test accuracy: 41.82
+In layer 3 angle between matrices: 89.99092658849335
+In layer 2 angle between matrices: 51.60637866549771
+Angle between deltas: {'layer_1': 64.26587334761115}
+
+Epoch 289 completed in 66.46407437324524	Loss: 4.343352051629999
+Test accuracy: 34.06
+In layer 3 angle between matrices: 89.9911381370188
+In layer 2 angle between matrices: 51.46662932799914
+Angle between deltas: {'layer_1': 50.205577660351764}
+
+Epoch 290 completed in 69.52330923080444	Loss: 4.454998647390786
+Test accuracy: 44.45
+In layer 3 angle between matrices: 89.99127381282585
+In layer 2 angle between matrices: 51.507524422257845
+Angle between deltas: {'layer_1': 60.624223038856634}
+
+Epoch 291 completed in 66.26122760772705	Loss: 4.35808287271978
+Test accuracy: 47.94
+In layer 3 angle between matrices: 89.99125251748617
+In layer 2 angle between matrices: 51.381657030812285
+Angle between deltas: {'layer_1': 40.34982234788032}
+
+Epoch 292 completed in 65.17892718315125	Loss: 4.406923853169351
+Test accuracy: 47.71
+In layer 3 angle between matrices: 89.99135687984214
+In layer 2 angle between matrices: 51.32214479739482
+Angle between deltas: {'layer_1': 41.12065723683975}
+
+Epoch 293 completed in 63.61357831954956	Loss: 4.452552882849196
+Test accuracy: 37.56
+In layer 3 angle between matrices: 89.99131376461364
+In layer 2 angle between matrices: 51.214967620645226
+Angle between deltas: {'layer_1': 49.728887742566656}
+
+Epoch 294 completed in 67.0607328414917	Loss: 4.315582811243661
+Test accuracy: 42.69
+In layer 3 angle between matrices: 89.99136161985572
+In layer 2 angle between matrices: 51.20145330526854
+Angle between deltas: {'layer_1': 48.87032873405305}
+
+Epoch 295 completed in 69.01931643486023	Loss: 4.46628054475233
+Test accuracy: 39.17
+In layer 3 angle between matrices: 89.99143195683212
+In layer 2 angle between matrices: 51.14209263099194
+Angle between deltas: {'layer_1': 48.59721068005432}
+
+Epoch 296 completed in 67.14827251434326	Loss: 4.312756792320637
+Test accuracy: 39.63
+In layer 3 angle between matrices: 89.99160912329522
+In layer 2 angle between matrices: 51.100067016186095
+Angle between deltas: {'layer_1': 51.07792666589561}
+
+Epoch 297 completed in 66.18282914161682	Loss: 4.468474073840042
+Test accuracy: 42.64
+In layer 3 angle between matrices: 89.99173979538463
+In layer 2 angle between matrices: 51.0659731100587
+Angle between deltas: {'layer_1': 63.36359313771405}
+
+Epoch 298 completed in 61.5694043636322	Loss: 4.377020681522335
+Test accuracy: 45.72
+In layer 3 angle between matrices: 89.99178469923407
+In layer 2 angle between matrices: 50.98974499456422
+Angle between deltas: {'layer_1': 53.319509988020826}
+
+Epoch 299 completed in 65.41243553161621	Loss: 4.207974464520721
+Test accuracy: 45.17
+In layer 3 angle between matrices: 89.99175732551457
+In layer 2 angle between matrices: 50.8939957202505
+Angle between deltas: {'layer_1': 40.13906878077737}
+
+Epoch 300 completed in 66.06942820549011	Loss: 4.2317687482840585
+Test accuracy: 43.24
+In layer 3 angle between matrices: 89.99193171378882
+In layer 2 angle between matrices: 50.867469726476976
+Angle between deltas: {'layer_1': 50.99180893318937}
+
+Epoch 301 completed in 66.01063275337219	Loss: 4.176056591865429
+Test accuracy: 44.36
+In layer 3 angle between matrices: 89.99192422234782
+In layer 2 angle between matrices: 50.80553617155581
+Angle between deltas: {'layer_1': 47.79561723102801}
+
+Epoch 302 completed in 67.25231575965881	Loss: 4.250475528275108
+Test accuracy: 42.72
+In layer 3 angle between matrices: 89.9920783372158
+In layer 2 angle between matrices: 50.781318067224724
+Angle between deltas: {'layer_1': 62.37105460816074}
+
+Epoch 303 completed in 65.18859529495239	Loss: 4.149804578289422
+Test accuracy: 46.91
+In layer 3 angle between matrices: 89.99217309095614
+In layer 2 angle between matrices: 50.690878130463204
+Angle between deltas: {'layer_1': 50.01585013033335}
+
+Epoch 304 completed in 64.85807633399963	Loss: 4.218906954495626
+Test accuracy: 44.17
+In layer 3 angle between matrices: 89.99225034512587
+In layer 2 angle between matrices: 50.6511600897558
+Angle between deltas: {'layer_1': 51.27047998131001}
+
+Epoch 305 completed in 65.92731142044067	Loss: 4.1343590728132105
+Test accuracy: 40.4
+In layer 3 angle between matrices: 89.9924658032632
+In layer 2 angle between matrices: 50.594766127858406
+Angle between deltas: {'layer_1': 45.152028228732426}
+
+Epoch 306 completed in 64.89480185508728	Loss: 4.113001999302365
+Test accuracy: 42.65
+In layer 3 angle between matrices: 89.99264898839454
+In layer 2 angle between matrices: 50.60065457612753
+Angle between deltas: {'layer_1': 49.38400910836283}
+
+Epoch 307 completed in 64.28859853744507	Loss: 4.125425877513059
+Test accuracy: 39.8
+In layer 3 angle between matrices: 89.99266452733565
+In layer 2 angle between matrices: 50.49858696334896
+Angle between deltas: {'layer_1': 63.27309030075825}
+
+Epoch 308 completed in 64.55596613883972	Loss: 4.300110625431713
+Test accuracy: 41.27
+In layer 3 angle between matrices: 89.99284682061409
+In layer 2 angle between matrices: 50.43177950038049
+Angle between deltas: {'layer_1': 63.28585095517578}
+
+Epoch 309 completed in 65.25251650810242	Loss: 4.192679817713206
+Test accuracy: 40.18
+In layer 3 angle between matrices: 89.99293133008968
+In layer 2 angle between matrices: 50.421267323185546
+Angle between deltas: {'layer_1': 62.66118467191269}
+
+Epoch 310 completed in 62.48238444328308	Loss: 4.175173127930428
+Test accuracy: 43.44
+In layer 3 angle between matrices: 89.99298996523596
+In layer 2 angle between matrices: 50.34804949412609
+Angle between deltas: {'layer_1': 40.74244580303403}
+
+Epoch 311 completed in 66.27558660507202	Loss: 4.1414944686524855
+Test accuracy: 40.67
+In layer 3 angle between matrices: 89.9930098667989
+In layer 2 angle between matrices: 50.2799081635588
+Angle between deltas: {'layer_1': 52.1597467677924}
+
+Epoch 312 completed in 67.01875710487366	Loss: 4.170826754176416
+Test accuracy: 45.03
+In layer 3 angle between matrices: 89.99312925402958
+In layer 2 angle between matrices: 50.229876182940835
+Angle between deltas: {'layer_1': 46.535964306467164}
+
+Epoch 313 completed in 68.21599769592285	Loss: 4.168762482782142
+Test accuracy: 41.01
+In layer 3 angle between matrices: 89.99322197398871
+In layer 2 angle between matrices: 50.18622676671558
+Angle between deltas: {'layer_1': 53.35562882090011}
+
+Epoch 314 completed in 67.79233145713806	Loss: 4.149961585763192
+Test accuracy: 42.68
+In layer 3 angle between matrices: 89.99338130620663
+In layer 2 angle between matrices: 50.092961244599
+Angle between deltas: {'layer_1': 43.462132574836055}
+
+Epoch 315 completed in 66.21186327934265	Loss: 4.0791625410565
+Test accuracy: 43.71
+In layer 3 angle between matrices: 89.99334489784071
+In layer 2 angle between matrices: 50.097929406924436
+Angle between deltas: {'layer_1': 61.561855669375554}
+
+Epoch 316 completed in 66.30421042442322	Loss: 4.106402210172848
+Test accuracy: 39.95
+In layer 3 angle between matrices: 89.99351165864482
+In layer 2 angle between matrices: 50.05449926034489
+Angle between deltas: {'layer_1': 57.93895788328302}
+
+Epoch 317 completed in 67.29734992980957	Loss: 4.022344714669893
+Test accuracy: 43.59
+In layer 3 angle between matrices: 89.99339161806881
+In layer 2 angle between matrices: 50.028615838936304
+Angle between deltas: {'layer_1': 61.279388697206045}
+
+Epoch 318 completed in 63.06530785560608	Loss: 4.122609045880248
+Test accuracy: 37.55
+In layer 3 angle between matrices: 89.99349411242586
+In layer 2 angle between matrices: 49.90850540524512
+Angle between deltas: {'layer_1': 60.16161526118964}
+
+Epoch 319 completed in 65.91003131866455	Loss: 4.143589651728926
+Test accuracy: 46.64
+In layer 3 angle between matrices: 89.99351752721907
+In layer 2 angle between matrices: 49.82352891571406
+Angle between deltas: {'layer_1': 49.0443610457316}
+
+Epoch 320 completed in 66.19657683372498	Loss: 3.9924748374267205
+Test accuracy: 42.82
+In layer 3 angle between matrices: 89.99358690961445
+In layer 2 angle between matrices: 49.82743743817384
+Angle between deltas: {'layer_1': 60.88972781213165}
+
+Epoch 321 completed in 65.36136221885681	Loss: 3.916729102408388
+Test accuracy: 39.12
+In layer 3 angle between matrices: 89.9936649450312
+In layer 2 angle between matrices: 49.82779299469854
+Angle between deltas: {'layer_1': 62.25173182289997}
+
+Epoch 322 completed in 67.18497824668884	Loss: 3.9716967942769372
+Test accuracy: 46.21
+In layer 3 angle between matrices: 89.99360362416684
+In layer 2 angle between matrices: 49.751053763866885
+Angle between deltas: {'layer_1': 39.403239988303575}
+
+Epoch 323 completed in 63.82868266105652	Loss: 4.081096054813808
+Test accuracy: 43.22
+In layer 3 angle between matrices: 89.99362048017339
+In layer 2 angle between matrices: 49.699457631575335
+Angle between deltas: {'layer_1': 60.80529593296245}
+
+Epoch 324 completed in 63.68181300163269	Loss: 3.9471096861657315
+Test accuracy: 39.28
+In layer 3 angle between matrices: 89.99365109463888
+In layer 2 angle between matrices: 49.60151790548854
+Angle between deltas: {'layer_1': 41.821287268852316}
+
+Epoch 325 completed in 66.59582304954529	Loss: 4.043261862737282
+Test accuracy: 43.04
+In layer 3 angle between matrices: 89.99384411998876
+In layer 2 angle between matrices: 49.62992873602372
+Angle between deltas: {'layer_1': 61.86968199469111}
+
+Epoch 326 completed in 66.85856342315674	Loss: 4.034464672048473
+Test accuracy: 41.77
+In layer 3 angle between matrices: 89.99404101962958
+In layer 2 angle between matrices: 49.54268608713701
+Angle between deltas: {'layer_1': 39.44489002562761}
+
+Epoch 327 completed in 64.95502209663391	Loss: 3.9425752190046284
+Test accuracy: 45.41
+In layer 3 angle between matrices: 89.99403697209905
+In layer 2 angle between matrices: 49.44235918270171
+Angle between deltas: {'layer_1': 44.19587375142063}
+
+Epoch 328 completed in 64.85705375671387	Loss: 3.9772827995091404
+Test accuracy: 41.53
+In layer 3 angle between matrices: 89.99408808725558
+In layer 2 angle between matrices: 49.398657070595995
+Angle between deltas: {'layer_1': 44.38726644084708}
+
+Epoch 329 completed in 61.76601791381836	Loss: 3.9320387001026584
+Test accuracy: 37.04
+In layer 3 angle between matrices: 89.9941509194174
+In layer 2 angle between matrices: 49.35978670992535
+Angle between deltas: {'layer_1': 60.545783805335205}
+
+Epoch 330 completed in 63.21190571784973	Loss: 3.9495613090567816
+Test accuracy: 42.33
+In layer 3 angle between matrices: 89.99418321325292
+In layer 2 angle between matrices: 49.32611817681882
+Angle between deltas: {'layer_1': 52.76796504014872}
+
+Epoch 331 completed in 64.48951935768127	Loss: 4.006866603277825
+Test accuracy: 41.63
+In layer 3 angle between matrices: 89.99421047567208
+In layer 2 angle between matrices: 49.29306708097433
+Angle between deltas: {'layer_1': 43.424246367776476}
+
+Epoch 332 completed in 63.38525891304016	Loss: 3.909167702460285
+Test accuracy: 38.11
+In layer 3 angle between matrices: 89.99439655012642
+In layer 2 angle between matrices: 49.22805584652112
+Angle between deltas: {'layer_1': 53.42293065342667}
+
+Epoch 333 completed in 63.36529231071472	Loss: 3.9110483608186315
+Test accuracy: 45.55
+In layer 3 angle between matrices: 89.99439752964052
+In layer 2 angle between matrices: 49.199044115032486
+Angle between deltas: {'layer_1': 41.732124453944024}
+
+Epoch 334 completed in 62.24671673774719	Loss: 3.936074163984744
+Test accuracy: 39.71
+In layer 3 angle between matrices: 89.9943391021562
+In layer 2 angle between matrices: 49.14728348798183
+Angle between deltas: {'layer_1': 43.67471500879613}
+
+Epoch 335 completed in 68.67712616920471	Loss: 3.9140646502094296
+Test accuracy: 43.13
+In layer 3 angle between matrices: 89.99449074304431
+In layer 2 angle between matrices: 49.11994840941498
+Angle between deltas: {'layer_1': 48.65143716362056}
+
+Epoch 336 completed in 66.48608016967773	Loss: 3.8867191245589683
+Test accuracy: 45.17
+In layer 3 angle between matrices: 89.99439378671916
+In layer 2 angle between matrices: 49.080768406826785
+Angle between deltas: {'layer_1': 60.6867047611763}
+
+Epoch 337 completed in 66.40256142616272	Loss: 3.8726582667444682
+Test accuracy: 39.57
+In layer 3 angle between matrices: 89.99446580108074
+In layer 2 angle between matrices: 48.96976049175471
+Angle between deltas: {'layer_1': 45.332243058720486}
+
+Epoch 338 completed in 66.51083636283875	Loss: 3.9479191598470957
+Test accuracy: 45.18
+In layer 3 angle between matrices: 89.99447475729816
+In layer 2 angle between matrices: 48.952750306461624
+Angle between deltas: {'layer_1': 38.56144543741296}
+
+Epoch 339 completed in 66.66741824150085	Loss: 3.8835374407742584
+Test accuracy: 46.16
+In layer 3 angle between matrices: 89.99441889756241
+In layer 2 angle between matrices: 48.926813342637516
+Angle between deltas: {'layer_1': 44.472899840583906}
+
+Epoch 340 completed in 66.27700757980347	Loss: 3.813230496946904
+Test accuracy: 42.99
+In layer 3 angle between matrices: 89.99451513349219
+In layer 2 angle between matrices: 48.88997807467332
+Angle between deltas: {'layer_1': 39.42757971358788}
+
+Epoch 341 completed in 65.34575748443604	Loss: 3.8431871536120927
+Test accuracy: 39.38
+In layer 3 angle between matrices: 89.99467367647061
+In layer 2 angle between matrices: 48.800006916090716
+Angle between deltas: {'layer_1': 43.79184592689872}
+
+Epoch 342 completed in 65.82551145553589	Loss: 3.7815788824661998
+Test accuracy: 42.69
+In layer 3 angle between matrices: 89.99474558579246
+In layer 2 angle between matrices: 48.790122479980816
+Angle between deltas: {'layer_1': 38.99409855120035}
+
+Epoch 343 completed in 66.04247403144836	Loss: 3.752263294872994
+Test accuracy: 43.7
+In layer 3 angle between matrices: 89.99478530854655
+In layer 2 angle between matrices: 48.714781471459986
+Angle between deltas: {'layer_1': 45.67186322620693}
+
+Epoch 344 completed in 61.83625555038452	Loss: 3.804473391392956
+Test accuracy: 37.34
+In layer 3 angle between matrices: 89.99481159050227
+In layer 2 angle between matrices: 48.69933244883491
+Angle between deltas: {'layer_1': 59.393040238665264}
+
+Epoch 345 completed in 65.39402914047241	Loss: 3.7666436694002177
+Test accuracy: 42.65
+In layer 3 angle between matrices: 89.99487995030283
+In layer 2 angle between matrices: 48.639142267316316
+Angle between deltas: {'layer_1': 38.99184057554504}
+
+Epoch 346 completed in 64.01871705055237	Loss: 3.811475274450019
+Test accuracy: 40.53
+In layer 3 angle between matrices: 89.99507550944955
+In layer 2 angle between matrices: 48.58952581599311
+Angle between deltas: {'layer_1': 44.70205258418399}
+
+Epoch 347 completed in 66.78348517417908	Loss: 3.761877446035231
+Test accuracy: 41.36
+In layer 3 angle between matrices: 89.99508551932368
+In layer 2 angle between matrices: 48.538589352243676
+Angle between deltas: {'layer_1': 54.00831776509718}
+
+Epoch 348 completed in 64.82553124427795	Loss: 3.7904020258087754
+Test accuracy: 40.97
+In layer 3 angle between matrices: 89.99519925499246
+In layer 2 angle between matrices: 48.481900005627296
+Angle between deltas: {'layer_1': 42.71730218996952}
+
+Epoch 349 completed in 64.69174814224243	Loss: 3.7726644825012694
+Test accuracy: 40.23
+In layer 3 angle between matrices: 89.99527933013893
+In layer 2 angle between matrices: 48.465725268068596
+Angle between deltas: {'layer_1': 57.888010854740735}
+
+Epoch 350 completed in 66.32303953170776	Loss: 3.6947902250413978
+Test accuracy: 41.23
+In layer 3 angle between matrices: 89.9954076154713
+In layer 2 angle between matrices: 48.46449980901685
+Angle between deltas: {'layer_1': 55.46822310834707}
+
+Epoch 351 completed in 64.53907203674316	Loss: 3.744045313133556
+Test accuracy: 45.77
+In layer 3 angle between matrices: 89.99539069220732
+In layer 2 angle between matrices: 48.40382493359537
+Angle between deltas: {'layer_1': 38.34178561747427}
+
+Epoch 352 completed in 66.0724549293518	Loss: 3.6968883975510947
+Test accuracy: 43.74
+In layer 3 angle between matrices: 89.99541869927799
+In layer 2 angle between matrices: 48.341861647567235
+Angle between deltas: {'layer_1': 47.41742996965996}
+
+Epoch 353 completed in 66.60539937019348	Loss: 3.838467416001078
+Test accuracy: 37.6
+In layer 3 angle between matrices: 89.99564824817085
+In layer 2 angle between matrices: 48.28944968465623
+Angle between deltas: {'layer_1': 58.89419841830778}
+
+Epoch 354 completed in 66.69284892082214	Loss: 3.737303790069645
+Test accuracy: 41.34
+In layer 3 angle between matrices: 89.99551951277034
+In layer 2 angle between matrices: 48.28535652797979
+Angle between deltas: {'layer_1': 59.57835315339469}
+
+Epoch 355 completed in 62.07948136329651	Loss: 3.634889779705746
+Test accuracy: 37.06
+In layer 3 angle between matrices: 89.99552842629129
+In layer 2 angle between matrices: 48.216023470375035
+Angle between deltas: {'layer_1': 59.712560239635515}
+
+Epoch 356 completed in 65.11743712425232	Loss: 3.6711633164648796
+Test accuracy: 42.07
+In layer 3 angle between matrices: 89.99551716821841
+In layer 2 angle between matrices: 48.175010897529226
+Angle between deltas: {'layer_1': 44.42241225355188}
+
+Epoch 357 completed in 65.61513638496399	Loss: 3.732406582748134
+Test accuracy: 44.08
+In layer 3 angle between matrices: 89.99552917920579
+In layer 2 angle between matrices: 48.1138630646537
+Angle between deltas: {'layer_1': 38.51878586760701}
+
+Epoch 358 completed in 66.8592312335968	Loss: 3.5864634298627824
+Test accuracy: 42.05
+In layer 3 angle between matrices: 89.99549284196151
+In layer 2 angle between matrices: 48.14311490555948
+Angle between deltas: {'layer_1': 58.52397022978244}
+
+Epoch 359 completed in 64.80688333511353	Loss: 3.7124854422432185
+Test accuracy: 39.48
+In layer 3 angle between matrices: 89.99564007947473
+In layer 2 angle between matrices: 47.99448541392422
+Angle between deltas: {'layer_1': 45.78087969192565}
+
+Epoch 360 completed in 65.55948781967163	Loss: 3.6691593971782765
+Test accuracy: 40.1
+In layer 3 angle between matrices: 89.99567967947613
+In layer 2 angle between matrices: 47.9688284567629
+Angle between deltas: {'layer_1': 43.94984455035749}
+
+Epoch 361 completed in 70.4627947807312	Loss: 3.611058442031096
+Test accuracy: 48.91
+In layer 3 angle between matrices: 89.99555551598799
+In layer 2 angle between matrices: 47.97920925251202
+Angle between deltas: {'layer_1': 43.99480299697908}
+
+Epoch 362 completed in 66.21102952957153	Loss: 3.6839621373593867
+Test accuracy: 41.52
+In layer 3 angle between matrices: 89.99566431455413
+In layer 2 angle between matrices: 47.87397282914245
+Angle between deltas: {'layer_1': 43.20241642528809}
+
+Epoch 363 completed in 68.40900707244873	Loss: 3.6621113946986985
+Test accuracy: 41.97
+In layer 3 angle between matrices: 89.99562088753981
+In layer 2 angle between matrices: 47.875034878185296
+Angle between deltas: {'layer_1': 58.59859553770905}
+
+Epoch 364 completed in 66.91465377807617	Loss: 3.5116996465660146
+Test accuracy: 44.07
+In layer 3 angle between matrices: 89.99567359744461
+In layer 2 angle between matrices: 47.81967417605156
+Angle between deltas: {'layer_1': 44.95452953086233}
+
+Epoch 365 completed in 67.7934160232544	Loss: 3.674004506981077
+Test accuracy: 43.26
+In layer 3 angle between matrices: 89.99575619070629
+In layer 2 angle between matrices: 47.83175873603993
+Angle between deltas: {'layer_1': 57.70180246163104}
+
+Epoch 366 completed in 99.67261219024658	Loss: 3.423119324351037
+Test accuracy: 45.33
+In layer 3 angle between matrices: 89.99574069886067
+In layer 2 angle between matrices: 47.78226277900246
+Angle between deltas: {'layer_1': 52.79334951645852}
+
+Epoch 367 completed in 119.8301112651825	Loss: 3.5869182213906035
+Test accuracy: 38.02
+In layer 3 angle between matrices: 89.99576637836809
+In layer 2 angle between matrices: 47.721051635976025
+Angle between deltas: {'layer_1': 57.11071610604632}
+
+Epoch 368 completed in 118.95720291137695	Loss: 3.529002716805312
+Test accuracy: 42.18
+In layer 3 angle between matrices: 89.99593590746048
+In layer 2 angle between matrices: 47.67786735501164
+Angle between deltas: {'layer_1': 40.702779360580934}
+
+Epoch 369 completed in 114.78344464302063	Loss: 3.5539018637356756
+Test accuracy: 45.57
+In layer 3 angle between matrices: 89.99595770248803
+In layer 2 angle between matrices: 47.61583759182399
+Angle between deltas: {'layer_1': 37.66810351286849}
+
+Epoch 370 completed in 115.44739937782288	Loss: 3.5249820889225845
+Test accuracy: 43.95
+In layer 3 angle between matrices: 89.99605438087602
+In layer 2 angle between matrices: 47.59126944880408
+Angle between deltas: {'layer_1': 57.47482351820613}
+
+Epoch 371 completed in 117.7695620059967	Loss: 3.559600599939244
+Test accuracy: 41.97
+In layer 3 angle between matrices: 89.99609436614611
+In layer 2 angle between matrices: 47.542332613220665
+Angle between deltas: {'layer_1': 44.744468750252956}
+
+Epoch 372 completed in 120.98237347602844	Loss: 3.53450207125201
+Test accuracy: 39.88
+In layer 3 angle between matrices: 89.9959899532975
+In layer 2 angle between matrices: 47.50257281144596
+Angle between deltas: {'layer_1': 56.99512413594682}
+
+Epoch 373 completed in 120.76002907752991	Loss: 3.4966807341525405
+Test accuracy: 45.36
+In layer 3 angle between matrices: 89.99616573653392
+In layer 2 angle between matrices: 47.42625372616113
+Angle between deltas: {'layer_1': 44.53592137066873}
+
+Epoch 374 completed in 119.85496854782104	Loss: 3.4797847274972566
+Test accuracy: 43.32
+In layer 3 angle between matrices: 89.99624976346767
+In layer 2 angle between matrices: 47.43846657097567
+Angle between deltas: {'layer_1': 55.733770425622545}
+
+Epoch 375 completed in 123.46311044692993	Loss: 3.433222542177752
+Test accuracy: 44.6
+In layer 3 angle between matrices: 89.99633156342666
+In layer 2 angle between matrices: 47.38583476231094
+Angle between deltas: {'layer_1': 45.69343676702964}
+
+Epoch 376 completed in 116.83900380134583	Loss: 3.5141441602379877
+Test accuracy: 39.68
+In layer 3 angle between matrices: 89.99639078206646
+In layer 2 angle between matrices: 47.374183036892596
+Angle between deltas: {'layer_1': 55.809432723863274}
+
+Epoch 377 completed in 117.38631772994995	Loss: 3.5887177448298613
+Test accuracy: 39.71
+In layer 3 angle between matrices: 89.99636433527394
+In layer 2 angle between matrices: 47.294570574327786
+Angle between deltas: {'layer_1': 44.239328655028736}
+
+Epoch 378 completed in 117.10814332962036	Loss: 3.511139931269941
+Test accuracy: 41.51
+In layer 3 angle between matrices: 89.99637615464152
+In layer 2 angle between matrices: 47.26690558471191
+Angle between deltas: {'layer_1': 46.356808576740406}
+
+Epoch 379 completed in 120.72556400299072	Loss: 3.441250183371852
+Test accuracy: 43.45
+In layer 3 angle between matrices: 89.99648653071125
+In layer 2 angle between matrices: 47.24958530831493
+Angle between deltas: {'layer_1': 45.13338760091376}
+
+Epoch 380 completed in 117.94424510002136	Loss: 3.4422315559805496
+Test accuracy: 40.71
+In layer 3 angle between matrices: 89.99662579882465
+In layer 2 angle between matrices: 47.16221582597987
+Angle between deltas: {'layer_1': 43.47047818072284}
+
+Epoch 381 completed in 120.8318247795105	Loss: 3.3680084006601345
+Test accuracy: 39.99
+In layer 3 angle between matrices: 89.99658995337845
+In layer 2 angle between matrices: 47.13508837984512
+Angle between deltas: {'layer_1': 41.98721402438463}
+
+Epoch 382 completed in 116.27681636810303	Loss: 3.4188730740573208
+Test accuracy: 40.53
+In layer 3 angle between matrices: 89.99662141212609
+In layer 2 angle between matrices: 47.111210864552326
+Angle between deltas: {'layer_1': 54.84100011804523}
+
+Epoch 383 completed in 113.4698576927185	Loss: 3.4090747589248913
+Test accuracy: 46.8
+In layer 3 angle between matrices: 89.99678951541843
+In layer 2 angle between matrices: 47.08556535940176
+Angle between deltas: {'layer_1': 39.56928174020273}
+
+Epoch 384 completed in 114.51484155654907	Loss: 3.3846447645655657
+Test accuracy: 37.42
+In layer 3 angle between matrices: 89.9967528291182
+In layer 2 angle between matrices: 47.04814773917294
+Angle between deltas: {'layer_1': 54.98289820688006}
+
+Epoch 385 completed in 118.55955672264099	Loss: 3.455330889079186
+Test accuracy: 42.44
+In layer 3 angle between matrices: 89.99682924598078
+In layer 2 angle between matrices: 46.97794550995534
+Angle between deltas: {'layer_1': 44.52143035307436}
+
+Epoch 386 completed in 117.15955901145935	Loss: 3.411538547206531
+Test accuracy: 40.5
+In layer 3 angle between matrices: 89.99687778978237
+In layer 2 angle between matrices: 46.933829821632244
+Angle between deltas: {'layer_1': 44.14544356748243}
+
+Epoch 387 completed in 115.88457322120667	Loss: 3.4101883443250687
+Test accuracy: 39.16
+In layer 3 angle between matrices: 89.99697669381793
+In layer 2 angle between matrices: 46.9101814903515
+Angle between deltas: {'layer_1': 56.66950209525013}
+
+Epoch 388 completed in 121.29315280914307	Loss: 3.4011380029302782
+Test accuracy: 43.24
+In layer 3 angle between matrices: 89.99706195666738
+In layer 2 angle between matrices: 46.892105213956164
+Angle between deltas: {'layer_1': 54.630936157130876}
+
+Epoch 389 completed in 115.69496178627014	Loss: 3.321053740359259
+Test accuracy: 41.55
+In layer 3 angle between matrices: 89.99706754169367
+In layer 2 angle between matrices: 46.87653070074113
+Angle between deltas: {'layer_1': 56.60734178664888}
+
+Epoch 390 completed in 115.3212456703186	Loss: 3.3925541849900536
+Test accuracy: 39.84
+In layer 3 angle between matrices: 89.99725407525291
+In layer 2 angle between matrices: 46.771672734018914
+Angle between deltas: {'layer_1': 45.35357074128389}
+
+Epoch 391 completed in 124.58334922790527	Loss: 3.362388036228266
+Test accuracy: 41.42
+In layer 3 angle between matrices: 89.99729603720293
+In layer 2 angle between matrices: 46.786973816246324
+Angle between deltas: {'layer_1': 53.01285182529844}
+
+Epoch 392 completed in 117.27776217460632	Loss: 3.38921304003687
+Test accuracy: 43.03
+In layer 3 angle between matrices: 89.99721394189778
+In layer 2 angle between matrices: 46.669509751807986
+Angle between deltas: {'layer_1': 44.25912375603295}
+
+Epoch 393 completed in 122.16326570510864	Loss: 3.430934587793395
+Test accuracy: 45.73
+In layer 3 angle between matrices: 89.997338097467
+In layer 2 angle between matrices: 46.66738883499282
+Angle between deltas: {'layer_1': 38.45544151464626}
+
+Epoch 394 completed in 118.70554447174072	Loss: 3.3565206098908456
+Test accuracy: 42.95
+In layer 3 angle between matrices: 89.99728367311555
+In layer 2 angle between matrices: 46.60306918811737
+Angle between deltas: {'layer_1': 45.62852660815582}
+
+Epoch 395 completed in 118.2027497291565	Loss: 3.3747981785657557
+Test accuracy: 41.92
+In layer 3 angle between matrices: 89.99747917344646
+In layer 2 angle between matrices: 46.56299823810946
+Angle between deltas: {'layer_1': 44.19250712367136}
+
+Epoch 396 completed in 117.01835823059082	Loss: 3.429767273649507
+Test accuracy: 43.29
+In layer 3 angle between matrices: 89.9975743001156
+In layer 2 angle between matrices: 46.55232528892914
+Angle between deltas: {'layer_1': 42.42260548486789}
+
+Epoch 397 completed in 115.33462381362915	Loss: 3.222703964965867
+Test accuracy: 42.77
+In layer 3 angle between matrices: 89.99751545466063
+In layer 2 angle between matrices: 46.52205479724673
+Angle between deltas: {'layer_1': 40.116656061704106}
+
+Epoch 398 completed in 120.19620823860168	Loss: 3.3173016603246204
+Test accuracy: 47.89
+In layer 3 angle between matrices: 89.99762509635335
+In layer 2 angle between matrices: 46.50766232211363
+Angle between deltas: {'layer_1': 45.59932323494941}
+
+Epoch 399 completed in 120.02855563163757	Loss: 3.3823965794789648
+Test accuracy: 42.96
+In layer 3 angle between matrices: 89.99780239539064
+In layer 2 angle between matrices: 46.488926625482435
+Angle between deltas: {'layer_1': 48.828312970319324}

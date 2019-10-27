@@ -1,0 +1,1211 @@
+
+====================
+Running the code with the dataset mnist:
+	learning algorithm: bp
+	batch_size: 128
+	learning rate: 0.2
+	n_epochs: 400
+	test frequency: 1
+	size_layers: [784, 500, 10]
+====================
+
+
+Epoch 0 completed in 34.401774644851685	Loss: 1.4687610010241647
+Test accuracy: 88.0
+
+Epoch 1 completed in 42.44343376159668	Loss: 0.8008829692414702
+Test accuracy: 89.69
+
+Epoch 2 completed in 46.4622061252594	Loss: 0.71097715949614
+Test accuracy: 90.58
+
+Epoch 3 completed in 43.53684639930725	Loss: 0.6571831625533974
+Test accuracy: 91.28
+
+Epoch 4 completed in 43.19096398353577	Loss: 0.61214466687775
+Test accuracy: 91.84
+
+Epoch 5 completed in 48.755091190338135	Loss: 0.5707083757889757
+Test accuracy: 92.39
+
+Epoch 6 completed in 48.887269020080566	Loss: 0.5324278237935055
+Test accuracy: 92.93
+
+Epoch 7 completed in 47.08506727218628	Loss: 0.4976917461804425
+Test accuracy: 93.38
+
+Epoch 8 completed in 45.6626923084259	Loss: 0.4665646288715298
+Test accuracy: 93.78
+
+Epoch 9 completed in 41.59304857254028	Loss: 0.4387485861138838
+Test accuracy: 94.12
+
+Epoch 10 completed in 42.766645431518555	Loss: 0.4138198848508743
+Test accuracy: 94.41
+
+Epoch 11 completed in 43.60832858085632	Loss: 0.3913751547424836
+Test accuracy: 94.69
+
+Epoch 12 completed in 42.493377685546875	Loss: 0.37107344931567104
+Test accuracy: 94.9
+
+Epoch 13 completed in 43.775253772735596	Loss: 0.352634303358013
+Test accuracy: 95.07
+
+Epoch 14 completed in 41.851927518844604	Loss: 0.33582625447662523
+Test accuracy: 95.24
+
+Epoch 15 completed in 44.99303150177002	Loss: 0.3204563490482775
+Test accuracy: 95.56
+
+Epoch 16 completed in 45.33008050918579	Loss: 0.30636193841408266
+Test accuracy: 95.75
+
+Epoch 17 completed in 47.678853273391724	Loss: 0.29340443528590415
+Test accuracy: 95.92
+
+Epoch 18 completed in 43.56520700454712	Loss: 0.28146447919195755
+Test accuracy: 96.09
+
+Epoch 19 completed in 39.24727821350098	Loss: 0.27043806828807976
+Test accuracy: 96.23
+
+Epoch 20 completed in 42.433265209198	Loss: 0.26023352940833017
+Test accuracy: 96.38
+
+Epoch 21 completed in 43.026845932006836	Loss: 0.2507693255475835
+Test accuracy: 96.44
+
+Epoch 22 completed in 43.65891170501709	Loss: 0.24197256023477692
+Test accuracy: 96.54
+
+Epoch 23 completed in 46.435009479522705	Loss: 0.23377792567585012
+Test accuracy: 96.61
+
+Epoch 24 completed in 42.11684465408325	Loss: 0.22612688878892268
+Test accuracy: 96.69
+
+Epoch 25 completed in 42.227872133255005	Loss: 0.2189670082246431
+Test accuracy: 96.76
+
+Epoch 26 completed in 41.16417193412781	Loss: 0.21225133871326055
+Test accuracy: 96.83
+
+Epoch 27 completed in 42.88162875175476	Loss: 0.20593790385708335
+Test accuracy: 96.92
+
+Epoch 28 completed in 45.7510552406311	Loss: 0.19998922427882163
+Test accuracy: 97.0
+
+Epoch 29 completed in 42.59849286079407	Loss: 0.19437188821737075
+Test accuracy: 97.07
+
+Epoch 30 completed in 44.956228256225586	Loss: 0.1890561530772635
+Test accuracy: 97.13
+
+Epoch 31 completed in 44.078301668167114	Loss: 0.18401557061531254
+Test accuracy: 97.15
+
+Epoch 32 completed in 42.706080198287964	Loss: 0.17922663342023648
+Test accuracy: 97.17
+
+Epoch 33 completed in 44.89514946937561	Loss: 0.17466844383369412
+Test accuracy: 97.23
+
+Epoch 34 completed in 45.078850984573364	Loss: 0.17032240776419774
+Test accuracy: 97.27
+
+Epoch 35 completed in 42.33527612686157	Loss: 0.16617195555268427
+Test accuracy: 97.31
+
+Epoch 36 completed in 45.06669545173645	Loss: 0.1622022910436455
+Test accuracy: 97.32
+
+Epoch 37 completed in 43.631144762039185	Loss: 0.15840016887918465
+Test accuracy: 97.33
+
+Epoch 38 completed in 44.4689621925354	Loss: 0.15475369901519803
+Test accuracy: 97.41
+
+Epoch 39 completed in 41.94210696220398	Loss: 0.15125217665905905
+Test accuracy: 97.43
+
+Epoch 40 completed in 45.86351156234741	Loss: 0.1478859353019294
+Test accuracy: 97.45
+
+Epoch 41 completed in 45.87451386451721	Loss: 0.14464622027213242
+Test accuracy: 97.49
+
+Epoch 42 completed in 44.647937297821045	Loss: 0.14152508020964835
+Test accuracy: 97.53
+
+Epoch 43 completed in 43.478699684143066	Loss: 0.13851527396543642
+Test accuracy: 97.56
+
+Epoch 44 completed in 44.84569764137268	Loss: 0.13561019059801496
+Test accuracy: 97.6
+
+Epoch 45 completed in 45.632877349853516	Loss: 0.13280378035592613
+Test accuracy: 97.63
+
+Epoch 46 completed in 45.20951867103577	Loss: 0.1300904948027863
+Test accuracy: 97.64
+
+Epoch 47 completed in 41.34384512901306	Loss: 0.12746523455119663
+Test accuracy: 97.65
+
+Epoch 48 completed in 40.26403260231018	Loss: 0.12492330338682762
+Test accuracy: 97.67
+
+Epoch 49 completed in 40.27131462097168	Loss: 0.12246036784095315
+Test accuracy: 97.7
+
+Epoch 50 completed in 42.649420499801636	Loss: 0.1200724214812643
+Test accuracy: 97.71
+
+Epoch 51 completed in 41.81591296195984	Loss: 0.11775575333484753
+Test accuracy: 97.77
+
+Epoch 52 completed in 45.01831650733948	Loss: 0.11550691994956298
+Test accuracy: 97.79
+
+Epoch 53 completed in 46.03785300254822	Loss: 0.11332272066115481
+Test accuracy: 97.79
+
+Epoch 54 completed in 47.699058055877686	Loss: 0.11120017567902507
+Test accuracy: 97.82
+
+Epoch 55 completed in 43.018518924713135	Loss: 0.10913650664215353
+Test accuracy: 97.83
+
+Epoch 56 completed in 42.7496497631073	Loss: 0.10712911933115235
+Test accuracy: 97.85
+
+Epoch 57 completed in 41.346112966537476	Loss: 0.10517558825337221
+Test accuracy: 97.86
+
+Epoch 58 completed in 43.606868505477905	Loss: 0.10327364284532946
+Test accuracy: 97.89
+
+Epoch 59 completed in 44.10319423675537	Loss: 0.10142115506097324
+Test accuracy: 97.88
+
+Epoch 60 completed in 43.02025818824768	Loss: 0.09961612813671882
+Test accuracy: 97.87
+
+Epoch 61 completed in 44.12937331199646	Loss: 0.09785668634693014
+Test accuracy: 97.88
+
+Epoch 62 completed in 43.7455108165741	Loss: 0.09614106558970646
+Test accuracy: 97.89
+
+Epoch 63 completed in 44.06430125236511	Loss: 0.09446760467570174
+Test accuracy: 97.89
+
+Epoch 64 completed in 44.91193437576294	Loss: 0.09283473723412336
+Test accuracy: 97.9
+
+Epoch 65 completed in 41.72046613693237	Loss: 0.09124098419795468
+Test accuracy: 97.92
+
+Epoch 66 completed in 43.22236204147339	Loss: 0.08968494687693031
+Test accuracy: 97.94
+
+Epoch 67 completed in 44.62178921699524	Loss: 0.08816530065904996
+Test accuracy: 97.93
+
+Epoch 68 completed in 42.9177508354187	Loss: 0.08668078938681398
+Test accuracy: 97.94
+
+Epoch 69 completed in 44.84669232368469	Loss: 0.08523022042812725
+Test accuracy: 97.96
+
+Epoch 70 completed in 39.808613300323486	Loss: 0.08381246041213777
+Test accuracy: 97.97
+
+Epoch 71 completed in 39.131019830703735	Loss: 0.08242643154607313
+Test accuracy: 97.96
+
+Epoch 72 completed in 39.92457628250122	Loss: 0.08107110839083552
+Test accuracy: 97.96
+
+Epoch 73 completed in 43.880839824676514	Loss: 0.07974551496260994
+Test accuracy: 97.98
+
+Epoch 74 completed in 40.40015649795532	Loss: 0.0784487220442137
+Test accuracy: 97.99
+
+Epoch 75 completed in 43.977158308029175	Loss: 0.0771798446231022
+Test accuracy: 98.0
+
+Epoch 76 completed in 46.83385515213013	Loss: 0.07593803941002635
+Test accuracy: 98.01
+
+Epoch 77 completed in 44.692113637924194	Loss: 0.07472250242358494
+Test accuracy: 98.02
+
+Epoch 78 completed in 44.50692963600159	Loss: 0.07353246664681481
+Test accuracy: 98.01
+
+Epoch 79 completed in 43.4429292678833	Loss: 0.07236719977237531
+Test accuracy: 98.03
+
+Epoch 80 completed in 42.44793081283569	Loss: 0.07122600205509873
+Test accuracy: 98.07
+
+Epoch 81 completed in 38.065776348114014	Loss: 0.07010820428764654
+Test accuracy: 98.07
+
+Epoch 82 completed in 47.55217099189758	Loss: 0.06901316590933923
+Test accuracy: 98.07
+
+Epoch 83 completed in 43.54308032989502	Loss: 0.06794027325181365
+Test accuracy: 98.08
+
+Epoch 84 completed in 42.295071601867676	Loss: 0.06688893791920361
+Test accuracy: 98.11
+
+Epoch 85 completed in 43.315223693847656	Loss: 0.06585859529570981
+Test accuracy: 98.1
+
+Epoch 86 completed in 48.42934226989746	Loss: 0.06484870317001602
+Test accuracy: 98.12
+
+Epoch 87 completed in 45.34317064285278	Loss: 0.0638587404640846
+Test accuracy: 98.14
+
+Epoch 88 completed in 40.77006411552429	Loss: 0.06288820605332689
+Test accuracy: 98.17
+
+Epoch 89 completed in 40.89706516265869	Loss: 0.06193661766579366
+Test accuracy: 98.18
+
+Epoch 90 completed in 43.480767488479614	Loss: 0.061003510849600456
+Test accuracy: 98.18
+
+Epoch 91 completed in 45.18601632118225	Loss: 0.060088437999979975
+Test accuracy: 98.18
+
+Epoch 92 completed in 42.04465961456299	Loss: 0.05919096743981311
+Test accuracy: 98.18
+
+Epoch 93 completed in 36.57961106300354	Loss: 0.05831068254990535
+Test accuracy: 98.18
+
+Epoch 94 completed in 40.32199573516846	Loss: 0.05744718094735896
+Test accuracy: 98.19
+
+Epoch 95 completed in 38.40521502494812	Loss: 0.05660007371191274
+Test accuracy: 98.2
+
+Epoch 96 completed in 38.98659801483154	Loss: 0.05576898466094039
+Test accuracy: 98.21
+
+Epoch 97 completed in 38.54790496826172	Loss: 0.05495354967388407
+Test accuracy: 98.25
+
+Epoch 98 completed in 38.008573055267334	Loss: 0.05415341606633391
+Test accuracy: 98.24
+
+Epoch 99 completed in 38.410298347473145	Loss: 0.053368242012929445
+Test accuracy: 98.25
+
+Epoch 100 completed in 40.622010707855225	Loss: 0.052597696017000574
+Test accuracy: 98.25
+
+Epoch 101 completed in 37.76919960975647	Loss: 0.0518414564236445
+Test accuracy: 98.25
+
+Epoch 102 completed in 41.25347828865051	Loss: 0.05109921097197344
+Test accuracy: 98.26
+
+Epoch 103 completed in 39.52380061149597	Loss: 0.05037065638171411
+Test accuracy: 98.29
+
+Epoch 104 completed in 37.859989404678345	Loss: 0.04965549796924587
+Test accuracy: 98.3
+
+Epoch 105 completed in 38.29388427734375	Loss: 0.048953449288490755
+Test accuracy: 98.3
+
+Epoch 106 completed in 38.67134070396423	Loss: 0.04826423179271491
+Test accuracy: 98.31
+
+Epoch 107 completed in 38.35057187080383	Loss: 0.04758757451412534
+Test accuracy: 98.32
+
+Epoch 108 completed in 38.15062761306763	Loss: 0.0469232137590131
+Test accuracy: 98.32
+
+Epoch 109 completed in 34.93558883666992	Loss: 0.04627089281698532
+Test accuracy: 98.32
+
+Epoch 110 completed in 36.85185885429382	Loss: 0.04563036168346673
+Test accuracy: 98.32
+
+Epoch 111 completed in 42.018710136413574	Loss: 0.04500137679509542
+Test accuracy: 98.32
+
+Epoch 112 completed in 41.133124589920044	Loss: 0.04438370077788588
+Test accuracy: 98.32
+
+Epoch 113 completed in 38.35520696640015	Loss: 0.04377710220810704
+Test accuracy: 98.32
+
+Epoch 114 completed in 38.44828176498413	Loss: 0.04318135538576708
+Test accuracy: 98.33
+
+Epoch 115 completed in 38.29985761642456	Loss: 0.042596240120459115
+Test accuracy: 98.34
+
+Epoch 116 completed in 39.20027017593384	Loss: 0.042021541529152676
+Test accuracy: 98.34
+
+Epoch 117 completed in 38.943798780441284	Loss: 0.041457049845361575
+Test accuracy: 98.34
+
+Epoch 118 completed in 40.754639863967896	Loss: 0.04090256023901066
+Test accuracy: 98.34
+
+Epoch 119 completed in 38.25162625312805	Loss: 0.040357872646286486
+Test accuracy: 98.34
+
+Epoch 120 completed in 38.14370560646057	Loss: 0.03982279160879374
+Test accuracy: 98.34
+
+Epoch 121 completed in 39.97275447845459	Loss: 0.03929712612144466
+Test accuracy: 98.33
+
+Epoch 122 completed in 38.66237926483154	Loss: 0.03878068948866027
+Test accuracy: 98.34
+
+Epoch 123 completed in 42.6996328830719	Loss: 0.0382732991886336
+Test accuracy: 98.35
+
+Epoch 124 completed in 40.8653039932251	Loss: 0.03777477674556115
+Test accuracy: 98.35
+
+Epoch 125 completed in 39.51929688453674	Loss: 0.037284947609856886
+Test accuracy: 98.37
+
+Epoch 126 completed in 40.530123472213745	Loss: 0.03680364104639507
+Test accuracy: 98.36
+
+Epoch 127 completed in 42.03773045539856	Loss: 0.036330690030763835
+Test accuracy: 98.36
+
+Epoch 128 completed in 37.38969826698303	Loss: 0.03586593115334168
+Test accuracy: 98.36
+
+Epoch 129 completed in 37.537506341934204	Loss: 0.03540920453073885
+Test accuracy: 98.36
+
+Epoch 130 completed in 38.872467279434204	Loss: 0.03496035372379298
+Test accuracy: 98.36
+
+Epoch 131 completed in 39.21584343910217	Loss: 0.03451922566090628
+Test accuracy: 98.35
+
+Epoch 132 completed in 37.16961598396301	Loss: 0.03408567056510516
+Test accuracy: 98.36
+
+Epoch 133 completed in 38.095141649246216	Loss: 0.03365954188284936
+Test accuracy: 98.37
+
+Epoch 134 completed in 40.784069299697876	Loss: 0.03324069621237883
+Test accuracy: 98.37
+
+Epoch 135 completed in 37.93044400215149	Loss: 0.03282899322932803
+Test accuracy: 98.37
+
+Epoch 136 completed in 37.57743048667908	Loss: 0.03242429560751624
+Test accuracy: 98.37
+
+Epoch 137 completed in 35.87708234786987	Loss: 0.03202646893327853
+Test accuracy: 98.37
+
+Epoch 138 completed in 35.91650056838989	Loss: 0.03163538161244476
+Test accuracy: 98.37
+
+Epoch 139 completed in 37.48172330856323	Loss: 0.03125090477006892
+Test accuracy: 98.36
+
+Epoch 140 completed in 38.47050356864929	Loss: 0.030872912144172045
+Test accuracy: 98.36
+
+Epoch 141 completed in 38.68788504600525	Loss: 0.030501279975947888
+Test accuracy: 98.37
+
+Epoch 142 completed in 38.33132529258728	Loss: 0.030135886899912725
+Test accuracy: 98.37
+
+Epoch 143 completed in 37.56525707244873	Loss: 0.029776613838166387
+Test accuracy: 98.37
+
+Epoch 144 completed in 38.80171775817871	Loss: 0.029423343903110667
+Test accuracy: 98.37
+
+Epoch 145 completed in 38.162795543670654	Loss: 0.029075962312556936
+Test accuracy: 98.36
+
+Epoch 146 completed in 39.12995910644531	Loss: 0.028734356320169054
+Test accuracy: 98.36
+
+Epoch 147 completed in 39.16180753707886	Loss: 0.02839841516276882
+Test accuracy: 98.37
+
+Epoch 148 completed in 37.792460680007935	Loss: 0.02806803002440847
+Test accuracy: 98.38
+
+Epoch 149 completed in 37.7056143283844	Loss: 0.027743094015557242
+Test accuracy: 98.37
+
+Epoch 150 completed in 38.04186153411865	Loss: 0.02742350216450171
+Test accuracy: 98.37
+
+Epoch 151 completed in 38.9227991104126	Loss: 0.027109151417288296
+Test accuracy: 98.38
+
+Epoch 152 completed in 38.092323541641235	Loss: 0.026799940642299125
+Test accuracy: 98.37
+
+Epoch 153 completed in 36.00245022773743	Loss: 0.026495770635803335
+Test accuracy: 98.37
+
+Epoch 154 completed in 39.201128005981445	Loss: 0.026196544125441052
+Test accuracy: 98.38
+
+Epoch 155 completed in 37.82910895347595	Loss: 0.025902165769420483
+Test accuracy: 98.38
+
+Epoch 156 completed in 38.2085542678833	Loss: 0.025612542150084086
+Test accuracy: 98.37
+
+Epoch 157 completed in 36.839391231536865	Loss: 0.025327581761307807
+Test accuracy: 98.37
+
+Epoch 158 completed in 35.832582235336304	Loss: 0.025047194989857628
+Test accuracy: 98.37
+
+Epoch 159 completed in 36.570793867111206	Loss: 0.02477129409130728
+Test accuracy: 98.37
+
+Epoch 160 completed in 34.65072989463806	Loss: 0.024499793161418176
+Test accuracy: 98.36
+
+Epoch 161 completed in 35.62934684753418	Loss: 0.02423260810402081
+Test accuracy: 98.36
+
+Epoch 162 completed in 37.00571632385254	Loss: 0.023969656596448747
+Test accuracy: 98.36
+
+Epoch 163 completed in 38.48982381820679	Loss: 0.023710858053498825
+Test accuracy: 98.36
+
+Epoch 164 completed in 38.71276593208313	Loss: 0.023456133590757496
+Test accuracy: 98.36
+
+Epoch 165 completed in 39.43828821182251	Loss: 0.023205405987970947
+Test accuracy: 98.36
+
+Epoch 166 completed in 37.94929814338684	Loss: 0.022958599652967687
+Test accuracy: 98.37
+
+Epoch 167 completed in 38.52124214172363	Loss: 0.022715640586481085
+Test accuracy: 98.37
+
+Epoch 168 completed in 37.57990074157715	Loss: 0.022476456348076178
+Test accuracy: 98.37
+
+Epoch 169 completed in 41.12182927131653	Loss: 0.022240976023265264
+Test accuracy: 98.37
+
+Epoch 170 completed in 39.86361241340637	Loss: 0.022009130191802062
+Test accuracy: 98.38
+
+Epoch 171 completed in 38.91173791885376	Loss: 0.021780850897075064
+Test accuracy: 98.38
+
+Epoch 172 completed in 41.13706707954407	Loss: 0.02155607161647382
+Test accuracy: 98.39
+
+Epoch 173 completed in 41.567359924316406	Loss: 0.021334727232575817
+Test accuracy: 98.38
+
+Epoch 174 completed in 40.16179585456848	Loss: 0.02111675400499156
+Test accuracy: 98.39
+
+Epoch 175 completed in 37.62286639213562	Loss: 0.020902089542708044
+Test accuracy: 98.39
+
+Epoch 176 completed in 40.14611887931824	Loss: 0.020690672776783447
+Test accuracy: 98.39
+
+Epoch 177 completed in 39.70938444137573	Loss: 0.020482443933264195
+Test accuracy: 98.39
+
+Epoch 178 completed in 40.40145301818848	Loss: 0.02027734450621791
+Test accuracy: 98.39
+
+Epoch 179 completed in 37.68731617927551	Loss: 0.020075317230800215
+Test accuracy: 98.4
+
+Epoch 180 completed in 39.96287560462952	Loss: 0.019876306056297654
+Test accuracy: 98.4
+
+Epoch 181 completed in 40.874922037124634	Loss: 0.019680256119113136
+Test accuracy: 98.4
+
+Epoch 182 completed in 36.3519971370697	Loss: 0.019487113715682736
+Test accuracy: 98.4
+
+Epoch 183 completed in 37.57686233520508	Loss: 0.01929682627533389
+Test accuracy: 98.41
+
+Epoch 184 completed in 37.228286027908325	Loss: 0.019109342333113635
+Test accuracy: 98.41
+
+Epoch 185 completed in 37.07357144355774	Loss: 0.018924611502632898
+Test accuracy: 98.41
+
+Epoch 186 completed in 36.12888264656067	Loss: 0.018742584448987472
+Test accuracy: 98.41
+
+Epoch 187 completed in 36.18499684333801	Loss: 0.01856321286182905
+Test accuracy: 98.41
+
+Epoch 188 completed in 39.15977954864502	Loss: 0.018386449428669998
+Test accuracy: 98.41
+
+Epoch 189 completed in 40.07836675643921	Loss: 0.01821224780851335
+Test accuracy: 98.41
+
+Epoch 190 completed in 38.0655779838562	Loss: 0.018040562605904788
+Test accuracy: 98.41
+
+Epoch 191 completed in 36.87221908569336	Loss: 0.01787134934550564
+Test accuracy: 98.41
+
+Epoch 192 completed in 37.52015161514282	Loss: 0.01770456444728589
+Test accuracy: 98.41
+
+Epoch 193 completed in 35.696027517318726	Loss: 0.01754016520243248
+Test accuracy: 98.42
+
+Epoch 194 completed in 37.00619125366211	Loss: 0.017378109750062216
+Test accuracy: 98.42
+
+Epoch 195 completed in 37.01072430610657	Loss: 0.01721835705482008
+Test accuracy: 98.42
+
+Epoch 196 completed in 36.84979009628296	Loss: 0.017060866885432274
+Test accuracy: 98.42
+
+Epoch 197 completed in 38.093836307525635	Loss: 0.016905599794270303
+Test accuracy: 98.42
+
+Epoch 198 completed in 38.29017353057861	Loss: 0.016752517097967993
+Test accuracy: 98.42
+
+Epoch 199 completed in 37.971465826034546	Loss: 0.01660158085911731
+Test accuracy: 98.42
+
+Epoch 200 completed in 38.46734571456909	Loss: 0.016452753869053087
+Test accuracy: 98.43
+
+Epoch 201 completed in 39.423102378845215	Loss: 0.016305999631720306
+Test accuracy: 98.43
+
+Epoch 202 completed in 40.34502911567688	Loss: 0.016161282348602313
+Test accuracy: 98.43
+
+Epoch 203 completed in 41.64002513885498	Loss: 0.01601856690467338
+Test accuracy: 98.43
+
+Epoch 204 completed in 37.87933659553528	Loss: 0.015877818855325753
+Test accuracy: 98.43
+
+Epoch 205 completed in 38.34079194068909	Loss: 0.015739004414209157
+Test accuracy: 98.43
+
+Epoch 206 completed in 37.53245830535889	Loss: 0.015602090441910408
+Test accuracy: 98.43
+
+Epoch 207 completed in 39.18299221992493	Loss: 0.01546704443539152
+Test accuracy: 98.43
+
+Epoch 208 completed in 38.79713320732117	Loss: 0.015333834518097701
+Test accuracy: 98.43
+
+Epoch 209 completed in 41.55415987968445	Loss: 0.015202429430640261
+Test accuracy: 98.43
+
+Epoch 210 completed in 38.01646304130554	Loss: 0.01507279852195489
+Test accuracy: 98.43
+
+Epoch 211 completed in 40.20992183685303	Loss: 0.014944911740831974
+Test accuracy: 98.42
+
+Epoch 212 completed in 39.891982078552246	Loss: 0.014818739627713176
+Test accuracy: 98.42
+
+Epoch 213 completed in 39.38285279273987	Loss: 0.014694253306646634
+Test accuracy: 98.42
+
+Epoch 214 completed in 38.1623432636261	Loss: 0.01457142447729244
+Test accuracy: 98.42
+
+Epoch 215 completed in 41.03002977371216	Loss: 0.014450225406870193
+Test accuracy: 98.42
+
+Epoch 216 completed in 39.43681311607361	Loss: 0.014330628921941837
+Test accuracy: 98.42
+
+Epoch 217 completed in 40.0456485748291	Loss: 0.014212608399925702
+Test accuracy: 98.42
+
+Epoch 218 completed in 38.642661333084106	Loss: 0.014096137760242152
+Test accuracy: 98.42
+
+Epoch 219 completed in 37.9597442150116	Loss: 0.013981191454997825
+Test accuracy: 98.42
+
+Epoch 220 completed in 37.68348431587219	Loss: 0.013867744459124682
+Test accuracy: 98.42
+
+Epoch 221 completed in 41.557700634002686	Loss: 0.013755772259902292
+Test accuracy: 98.42
+
+Epoch 222 completed in 40.49189853668213	Loss: 0.013645250845807429
+Test accuracy: 98.42
+
+Epoch 223 completed in 36.29889154434204	Loss: 0.01353615669465426
+Test accuracy: 98.42
+
+Epoch 224 completed in 39.29086232185364	Loss: 0.013428466761011648
+Test accuracy: 98.42
+
+Epoch 225 completed in 39.16224646568298	Loss: 0.013322158462910561
+Test accuracy: 98.42
+
+Epoch 226 completed in 38.90195870399475	Loss: 0.013217209667884403
+Test accuracy: 98.42
+
+Epoch 227 completed in 40.34247279167175	Loss: 0.013113598678416823
+Test accuracy: 98.42
+
+Epoch 228 completed in 37.476614475250244	Loss: 0.013011304216904288
+Test accuracy: 98.42
+
+Epoch 229 completed in 38.3502995967865	Loss: 0.012910305410272683
+Test accuracy: 98.42
+
+Epoch 230 completed in 38.62120079994202	Loss: 0.012810581774416201
+Test accuracy: 98.42
+
+Epoch 231 completed in 37.11960554122925	Loss: 0.01271211319865128
+Test accuracy: 98.42
+
+Epoch 232 completed in 37.09584617614746	Loss: 0.012614879930395537
+Test accuracy: 98.43
+
+Epoch 233 completed in 37.89085006713867	Loss: 0.012518862560290382
+Test accuracy: 98.43
+
+Epoch 234 completed in 38.94679498672485	Loss: 0.01242404200798434
+Test accuracy: 98.42
+
+Epoch 235 completed in 37.97728872299194	Loss: 0.012330399508781672
+Test accuracy: 98.42
+
+Epoch 236 completed in 37.30201244354248	Loss: 0.012237916601337719
+Test accuracy: 98.42
+
+Epoch 237 completed in 36.18613076210022	Loss: 0.012146575116549187
+Test accuracy: 98.42
+
+Epoch 238 completed in 34.77349257469177	Loss: 0.012056357167746798
+Test accuracy: 98.42
+
+Epoch 239 completed in 38.07384252548218	Loss: 0.011967245142250962
+Test accuracy: 98.42
+
+Epoch 240 completed in 38.8392608165741	Loss: 0.0118792216943025
+Test accuracy: 98.42
+
+Epoch 241 completed in 38.080121755599976	Loss: 0.011792269739331979
+Test accuracy: 98.42
+
+Epoch 242 completed in 41.06998538970947	Loss: 0.011706372449486985
+Test accuracy: 98.42
+
+Epoch 243 completed in 37.90121054649353	Loss: 0.011621513250298574
+Test accuracy: 98.42
+
+Epoch 244 completed in 40.55748200416565	Loss: 0.011537675818338493
+Test accuracy: 98.42
+
+Epoch 245 completed in 38.615729093551636	Loss: 0.011454844079698673
+Test accuracy: 98.43
+
+Epoch 246 completed in 38.41405630111694	Loss: 0.01137300220911416
+Test accuracy: 98.43
+
+Epoch 247 completed in 43.15579152107239	Loss: 0.011292134629549906
+Test accuracy: 98.43
+
+Epoch 248 completed in 39.844804763793945	Loss: 0.011212226012079076
+Test accuracy: 98.43
+
+Epoch 249 completed in 41.66868042945862	Loss: 0.011133261275895078
+Test accuracy: 98.43
+
+Epoch 250 completed in 39.25139880180359	Loss: 0.01105522558831824
+Test accuracy: 98.43
+
+Epoch 251 completed in 40.12653374671936	Loss: 0.010978104364680944
+Test accuracy: 98.43
+
+Epoch 252 completed in 38.536898136138916	Loss: 0.010901883267998234
+Test accuracy: 98.43
+
+Epoch 253 completed in 37.84711241722107	Loss: 0.010826548208354875
+Test accuracy: 98.43
+
+Epoch 254 completed in 38.19525957107544	Loss: 0.010752085341961941
+Test accuracy: 98.43
+
+Epoch 255 completed in 38.08241081237793	Loss: 0.01067848106985619
+Test accuracy: 98.43
+
+Epoch 256 completed in 38.08494305610657	Loss: 0.010605722036232822
+Test accuracy: 98.43
+
+Epoch 257 completed in 41.261803150177	Loss: 0.010533795126416506
+Test accuracy: 98.43
+
+Epoch 258 completed in 36.61922097206116	Loss: 0.010462687464486966
+Test accuracy: 98.43
+
+Epoch 259 completed in 42.443081855773926	Loss: 0.010392386410583779
+Test accuracy: 98.43
+
+Epoch 260 completed in 39.36473250389099	Loss: 0.010322879557920814
+Test accuracy: 98.43
+
+Epoch 261 completed in 39.65820789337158	Loss: 0.010254154729544348
+Test accuracy: 98.43
+
+Epoch 262 completed in 40.143985986709595	Loss: 0.010186199974870564
+Test accuracy: 98.43
+
+Epoch 263 completed in 40.10165309906006	Loss: 0.010119003566038114
+Test accuracy: 98.43
+
+Epoch 264 completed in 36.175777435302734	Loss: 0.010052553994110655
+Test accuracy: 98.43
+
+Epoch 265 completed in 38.70072531700134	Loss: 0.009986839965162229
+Test accuracy: 98.43
+
+Epoch 266 completed in 39.38526797294617	Loss: 0.009921850396275952
+Test accuracy: 98.43
+
+Epoch 267 completed in 39.80870532989502	Loss: 0.00985757441148384
+Test accuracy: 98.43
+
+Epoch 268 completed in 39.376097440719604	Loss: 0.009794001337672423
+Test accuracy: 98.43
+
+Epoch 269 completed in 36.32887935638428	Loss: 0.009731120700476152
+Test accuracy: 98.43
+
+Epoch 270 completed in 37.98457884788513	Loss: 0.009668922220177381
+Test accuracy: 98.43
+
+Epoch 271 completed in 40.071518659591675	Loss: 0.009607395807629295
+Test accuracy: 98.43
+
+Epoch 272 completed in 38.5419442653656	Loss: 0.009546531560215336
+Test accuracy: 98.43
+
+Epoch 273 completed in 37.49844789505005	Loss: 0.009486319757856635
+Test accuracy: 98.43
+
+Epoch 274 completed in 40.92298412322998	Loss: 0.009426750859076592
+Test accuracy: 98.43
+
+Epoch 275 completed in 40.10505437850952	Loss: 0.00936781549713018
+Test accuracy: 98.43
+
+Epoch 276 completed in 35.82091665267944	Loss: 0.00930950447620372
+Test accuracy: 98.43
+
+Epoch 277 completed in 38.66067957878113	Loss: 0.009251808767689575
+Test accuracy: 98.43
+
+Epoch 278 completed in 37.22276949882507	Loss: 0.009194719506538966
+Test accuracy: 98.43
+
+Epoch 279 completed in 37.587263107299805	Loss: 0.009138227987695135
+Test accuracy: 98.43
+
+Epoch 280 completed in 40.89028716087341	Loss: 0.00908232566260811
+Test accuracy: 98.43
+
+Epoch 281 completed in 39.5791015625	Loss: 0.009027004135831743
+Test accuracy: 98.44
+
+Epoch 282 completed in 37.6649751663208	Loss: 0.00897225516170298
+Test accuracy: 98.44
+
+Epoch 283 completed in 38.598140478134155	Loss: 0.008918070641102846
+Test accuracy: 98.44
+
+Epoch 284 completed in 37.837477922439575	Loss: 0.00886444261829838
+Test accuracy: 98.44
+
+Epoch 285 completed in 39.3852756023407	Loss: 0.008811363277864186
+Test accuracy: 98.44
+
+Epoch 286 completed in 42.02154541015625	Loss: 0.008758824941682246
+Test accuracy: 98.44
+
+Epoch 287 completed in 39.425365924835205	Loss: 0.008706820066018367
+Test accuracy: 98.44
+
+Epoch 288 completed in 37.812427282333374	Loss: 0.008655341238673462
+Test accuracy: 98.44
+
+Epoch 289 completed in 38.50492572784424	Loss: 0.008604381176207829
+Test accuracy: 98.45
+
+Epoch 290 completed in 39.5103645324707	Loss: 0.008553932721236534
+Test accuracy: 98.45
+
+Epoch 291 completed in 36.48542308807373	Loss: 0.00850398883979386
+Test accuracy: 98.45
+
+Epoch 292 completed in 37.466047286987305	Loss: 0.008454542618764962
+Test accuracy: 98.45
+
+Epoch 293 completed in 37.69159126281738	Loss: 0.008405587263382653
+Test accuracy: 98.46
+
+Epoch 294 completed in 38.147550106048584	Loss: 0.008357116094787431
+Test accuracy: 98.46
+
+Epoch 295 completed in 38.70105028152466	Loss: 0.008309122547648838
+Test accuracy: 98.46
+
+Epoch 296 completed in 38.11715006828308	Loss: 0.00826160016784624
+Test accuracy: 98.47
+
+Epoch 297 completed in 37.327470779418945	Loss: 0.008214542610207206
+Test accuracy: 98.47
+
+Epoch 298 completed in 39.13540697097778	Loss: 0.008167943636301713
+Test accuracy: 98.47
+
+Epoch 299 completed in 39.332314252853394	Loss: 0.008121797112290443
+Test accuracy: 98.47
+
+Epoch 300 completed in 38.52493762969971	Loss: 0.008076097006825487
+Test accuracy: 98.46
+
+Epoch 301 completed in 37.25596213340759	Loss: 0.008030837389001856
+Test accuracy: 98.46
+
+Epoch 302 completed in 40.353206634521484	Loss: 0.007986012426358238
+Test accuracy: 98.46
+
+Epoch 303 completed in 37.875197410583496	Loss: 0.007941616382925471
+Test accuracy: 98.46
+
+Epoch 304 completed in 36.69093060493469	Loss: 0.007897643617321346
+Test accuracy: 98.46
+
+Epoch 305 completed in 40.98635387420654	Loss: 0.007854088580890248
+Test accuracy: 98.46
+
+Epoch 306 completed in 40.885191440582275	Loss: 0.007810945815886421
+Test accuracy: 98.47
+
+Epoch 307 completed in 39.75351405143738	Loss: 0.007768209953699453
+Test accuracy: 98.47
+
+Epoch 308 completed in 38.90772724151611	Loss: 0.007725875713120819
+Test accuracy: 98.47
+
+Epoch 309 completed in 40.72539258003235	Loss: 0.007683937898650273
+Test accuracy: 98.47
+
+Epoch 310 completed in 35.57447791099548	Loss: 0.0076423913988409135
+Test accuracy: 98.47
+
+Epoch 311 completed in 34.943453311920166	Loss: 0.007601231184681882
+Test accuracy: 98.47
+
+Epoch 312 completed in 36.1629536151886	Loss: 0.007560452308017581
+Test accuracy: 98.47
+
+Epoch 313 completed in 38.005001068115234	Loss: 0.007520049900002426
+Test accuracy: 98.47
+
+Epoch 314 completed in 37.78376388549805	Loss: 0.007480019169590153
+Test accuracy: 98.47
+
+Epoch 315 completed in 37.699337005615234	Loss: 0.00744035540205672
+Test accuracy: 98.47
+
+Epoch 316 completed in 37.912625789642334	Loss: 0.007401053957555903
+Test accuracy: 98.47
+
+Epoch 317 completed in 38.2661018371582	Loss: 0.007362110269706727
+Test accuracy: 98.48
+
+Epoch 318 completed in 39.23182225227356	Loss: 0.007323519844211861
+Test accuracy: 98.48
+
+Epoch 319 completed in 36.286125898361206	Loss: 0.007285278257506193
+Test accuracy: 98.48
+
+Epoch 320 completed in 41.00956320762634	Loss: 0.007247381155434773
+Test accuracy: 98.49
+
+Epoch 321 completed in 38.71486163139343	Loss: 0.0072098242519593805
+Test accuracy: 98.49
+
+Epoch 322 completed in 37.566535234451294	Loss: 0.007172603327892986
+Test accuracy: 98.49
+
+Epoch 323 completed in 35.897369384765625	Loss: 0.007135714229661387
+Test accuracy: 98.49
+
+Epoch 324 completed in 34.60488200187683	Loss: 0.007099152868091355
+Test accuracy: 98.49
+
+Epoch 325 completed in 35.93748235702515	Loss: 0.00706291521722459
+Test accuracy: 98.49
+
+Epoch 326 completed in 36.58331632614136	Loss: 0.007026997313156908
+Test accuracy: 98.49
+
+Epoch 327 completed in 39.135740518569946	Loss: 0.006991395252901946
+Test accuracy: 98.49
+
+Epoch 328 completed in 41.494251012802124	Loss: 0.0069561051932789005
+Test accuracy: 98.49
+
+Epoch 329 completed in 36.47455954551697	Loss: 0.006921123349823596
+Test accuracy: 98.49
+
+Epoch 330 completed in 36.72316908836365	Loss: 0.0068864459957224166
+Test accuracy: 98.49
+
+Epoch 331 completed in 40.42720174789429	Loss: 0.0068520694607684795
+Test accuracy: 98.49
+
+Epoch 332 completed in 38.699204444885254	Loss: 0.006817990130339551
+Test accuracy: 98.49
+
+Epoch 333 completed in 40.02722907066345	Loss: 0.006784204444397226
+Test accuracy: 98.49
+
+Epoch 334 completed in 39.33175802230835	Loss: 0.006750708896506758
+Test accuracy: 98.49
+
+Epoch 335 completed in 39.22186803817749	Loss: 0.006717500032877164
+Test accuracy: 98.49
+
+Epoch 336 completed in 38.896955251693726	Loss: 0.006684574451421088
+Test accuracy: 98.49
+
+Epoch 337 completed in 37.8179407119751	Loss: 0.006651928800833937
+Test accuracy: 98.49
+
+Epoch 338 completed in 36.938556432724	Loss: 0.006619559779691875
+Test accuracy: 98.49
+
+Epoch 339 completed in 38.26715445518494	Loss: 0.006587464135568227
+Test accuracy: 98.49
+
+Epoch 340 completed in 38.82295560836792	Loss: 0.006555638664167865
+Test accuracy: 98.49
+
+Epoch 341 completed in 36.705681800842285	Loss: 0.0065240802084791695
+Test accuracy: 98.49
+
+Epoch 342 completed in 37.834657430648804	Loss: 0.006492785657943157
+Test accuracy: 98.49
+
+Epoch 343 completed in 36.23966431617737	Loss: 0.006461751947639371
+Test accuracy: 98.49
+
+Epoch 344 completed in 38.408918619155884	Loss: 0.006430976057488203
+Test accuracy: 98.49
+
+Epoch 345 completed in 39.0126531124115	Loss: 0.006400455011469207
+Test accuracy: 98.49
+
+Epoch 346 completed in 37.629403591156006	Loss: 0.006370185876855075
+Test accuracy: 98.49
+
+Epoch 347 completed in 38.74530506134033	Loss: 0.006340165763460951
+Test accuracy: 98.49
+
+Epoch 348 completed in 37.27450776100159	Loss: 0.006310391822908672
+Test accuracy: 98.49
+
+Epoch 349 completed in 38.51545071601868	Loss: 0.0062808612479056695
+Test accuracy: 98.49
+
+Epoch 350 completed in 40.301727056503296	Loss: 0.006251571271538151
+Test accuracy: 98.49
+
+Epoch 351 completed in 37.786476612091064	Loss: 0.006222519166578285
+Test accuracy: 98.49
+
+Epoch 352 completed in 37.13760185241699	Loss: 0.006193702244805039
+Test accuracy: 98.49
+
+Epoch 353 completed in 38.533994913101196	Loss: 0.006165117856338406
+Test accuracy: 98.49
+
+Epoch 354 completed in 37.92570662498474	Loss: 0.006136763388986703
+Test accuracy: 98.49
+
+Epoch 355 completed in 37.7488112449646	Loss: 0.0061086362676066415
+Test accuracy: 98.49
+
+Epoch 356 completed in 36.991764307022095	Loss: 0.006080733953475927
+Test accuracy: 98.49
+
+Epoch 357 completed in 34.677921533584595	Loss: 0.006053053943678066
+Test accuracy: 98.49
+
+Epoch 358 completed in 37.77248978614807	Loss: 0.00602559377049916
+Test accuracy: 98.49
+
+Epoch 359 completed in 34.8337676525116	Loss: 0.005998351000836383
+Test accuracy: 98.49
+
+Epoch 360 completed in 37.62636756896973	Loss: 0.0059713232356179155
+Test accuracy: 98.49
+
+Epoch 361 completed in 37.180826902389526	Loss: 0.00594450810923408
+Test accuracy: 98.49
+
+Epoch 362 completed in 39.929572343826294	Loss: 0.005917903288979428
+Test accuracy: 98.49
+
+Epoch 363 completed in 39.2830605506897	Loss: 0.005891506474505546
+Test accuracy: 98.49
+
+Epoch 364 completed in 39.15829420089722	Loss: 0.005865315397284356
+Test accuracy: 98.49
+
+Epoch 365 completed in 38.79205369949341	Loss: 0.0058393278200816676
+Test accuracy: 98.49
+
+Epoch 366 completed in 35.68124270439148	Loss: 0.005813541536440797
+Test accuracy: 98.49
+
+Epoch 367 completed in 37.78404664993286	Loss: 0.005787954370175967
+Test accuracy: 98.49
+
+Epoch 368 completed in 37.40528082847595	Loss: 0.005762564174875373
+Test accuracy: 98.49
+
+Epoch 369 completed in 36.80554008483887	Loss: 0.005737368833413633
+Test accuracy: 98.49
+
+Epoch 370 completed in 37.62854886054993	Loss: 0.0057123662574734575
+Test accuracy: 98.49
+
+Epoch 371 completed in 36.3814480304718	Loss: 0.005687554387076335
+Test accuracy: 98.49
+
+Epoch 372 completed in 38.61729192733765	Loss: 0.00566293119012203
+Test accuracy: 98.49
+
+Epoch 373 completed in 40.23972964286804	Loss: 0.0056384946619367545
+Test accuracy: 98.49
+
+Epoch 374 completed in 38.78841686248779	Loss: 0.005614242824829737
+Test accuracy: 98.49
+
+Epoch 375 completed in 34.980125427246094	Loss: 0.005590173727658136
+Test accuracy: 98.49
+
+Epoch 376 completed in 38.544368505477905	Loss: 0.0055662854454000075
+Test accuracy: 98.49
+
+Epoch 377 completed in 42.62496829032898	Loss: 0.005542576078735229
+Test accuracy: 98.49
+
+Epoch 378 completed in 43.57392716407776	Loss: 0.005519043753634189
+Test accuracy: 98.5
+
+Epoch 379 completed in 37.1950261592865	Loss: 0.0054956866209540794
+Test accuracy: 98.5
+
+Epoch 380 completed in 37.738606452941895	Loss: 0.005472502856042646
+Test accuracy: 98.5
+
+Epoch 381 completed in 39.763909339904785	Loss: 0.005449490658349217
+Test accuracy: 98.5
+
+Epoch 382 completed in 37.54019641876221	Loss: 0.005426648251042878
+Test accuracy: 98.5
+
+Epoch 383 completed in 37.19136333465576	Loss: 0.005403973880637659
+Test accuracy: 98.5
+
+Epoch 384 completed in 35.86076307296753	Loss: 0.005381465816624554
+Test accuracy: 98.5
+
+Epoch 385 completed in 35.96437478065491	Loss: 0.005359122351110235
+Test accuracy: 98.5
+
+Epoch 386 completed in 39.54675030708313	Loss: 0.005336941798462385
+Test accuracy: 98.5
+
+Epoch 387 completed in 38.74086332321167	Loss: 0.005314922494961414
+Test accuracy: 98.5
+
+Epoch 388 completed in 36.47425556182861	Loss: 0.0052930627984585235
+Test accuracy: 98.5
+
+Epoch 389 completed in 37.26449990272522	Loss: 0.005271361088039914
+Test accuracy: 98.5
+
+Epoch 390 completed in 36.476826667785645	Loss: 0.005249815763697066
+Test accuracy: 98.5
+
+Epoch 391 completed in 37.59798741340637	Loss: 0.005228425246002934
+Test accuracy: 98.5
+
+Epoch 392 completed in 37.797717571258545	Loss: 0.0052071879757939555
+Test accuracy: 98.49
+
+Epoch 393 completed in 38.63732028007507	Loss: 0.00518610241385775
+Test accuracy: 98.49
+
+Epoch 394 completed in 35.482884883880615	Loss: 0.005165167040626389
+Test accuracy: 98.49
+
+Epoch 395 completed in 35.0946683883667	Loss: 0.005144380355875132
+Test accuracy: 98.5
+
+Epoch 396 completed in 36.59082531929016	Loss: 0.005123740878426509
+Test accuracy: 98.5
+
+Epoch 397 completed in 38.58550405502319	Loss: 0.005103247145859664
+Test accuracy: 98.5
+
+Epoch 398 completed in 35.69037985801697	Loss: 0.005082897714224818
+Test accuracy: 98.5
+
+Epoch 399 completed in 38.30183672904968	Loss: 0.005062691157762785
+Test accuracy: 98.5

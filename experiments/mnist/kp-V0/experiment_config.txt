@@ -1,0 +1,9 @@
+dataset    mnist
+algo    kp
+n_epochs    400
+size_hidden_layers    [500]
+batch_size    128
+learning_rate    0.3
+test_frequency    1
+save_dir    ./experiments
+seed    1111
